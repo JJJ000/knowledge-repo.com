@@ -1,10 +1,10 @@
 # Knowledge Repository
 
 This is a git repository that stores documents called "Knowledge Posts" in a
-format compatible with the [Knowledge Repo](https://github.com/airbnb/knowledge-repo)
+format compatible with that of the [Knowledge Repo](https://github.com/airbnb/knowledge-repo)
 project.
 
-If you are looking to contribute a post to this repository, please refer to the
+If you are looking to contribute a post to this repository, please follow the
 below quickstart guide or the [upstream documentation](http://knowledge-repo.readthedocs.io/en/latest/quickstart.html).
 
 ## Quickstart
@@ -26,7 +26,7 @@ export KNOWLEDGE_REPO="<repo_path>"
 
 3\. Create a post template
 
-For a Jupyter notebooks:
+For a Jupyter notebook:
 ```
 knowledge_repo create ipynb example_post.ipynb
 ```
