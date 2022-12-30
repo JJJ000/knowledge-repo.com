@@ -1,21 +1,21 @@
 ---
-title: How do I undo the most recent commits in Git
+title: How do I undo the last commit in Git
 authors:
-- smart_wizard
+- cool_wizard
 tags:
 - knowledge
 - git
 created_at: 2022-12-30 00:00:00
-updated_at: 2022-12-30 14:29:56.705204
-tldr: Use `git reset --soft HEAD~1` to revert the last commit and keep all the changes,
-  or `git reset --hard HEAD~1` to clean up fully all the changes in the last commit.
+updated_at: 2022-12-30 14:44:55.359725
+tldr: Use `git reset --soft HEAD~1` to undo the last commit and keep all the changes,
+  or `git reset --hard HEAD~1` to clean up all the changes in the last commit.
 ---
 
 **Contents**
 
 [TOC]
 
-### Look up the Git commit history
+### Look up the Git commit history:
 
 To view the commit history of a Git repository, you can use the `git log` command. By default, this command will show you a list of all commits in the repository, starting with the most recent commit.
 
@@ -39,7 +39,7 @@ You can also use the `--author option` to filter the commits by author:
 git log --author="John Doe"
 ```
 
-### Revert the last commit
+### Undo the last commit
 
 You can also use the `git reset` command to undo your last commit. For example:
 
@@ -55,7 +55,7 @@ git reset --hard HEAD~1
 
 ### Reset to a particular commit
 
-If you want to keep the changes made in the commit, but just move the branch pointer to the previous commit, you can use the `git reset` command with the `--soft` option instead:
+If you want to keep the changes made in the commit, but just move the branch pointer to the previous commit, you can use the `git reset` command with the `--soft` option:
 
 ```shell
 git reset --soft commit_hash
@@ -63,7 +63,7 @@ git reset --soft commit_hash
 
 This will move the branch pointer to the specified commit, but the changes made in the commit will remain in the working directory and can be committed again in a new commit.
 
-To clean up fully the most recent commit in Git, you can use the `git reset` command with the `--hard` option and specify the commit hash of the commit you want to revert to. For example:
+To undo fully the most recent commit in Git, you can use the `git reset` command with the `--hard` option and specify the commit hash of the commit you want to revert to. For example:
 
 ```shell
 git reset --hard commit_hash
