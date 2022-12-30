@@ -5,6 +5,7 @@ authors:
 tags:
 - git
 - knowledge
+thumbnail: images/thumbnail.png
 created_at: 2022-12-30 00:00:00
 updated_at: 2022-12-30 14:51:49.064480
 tldr: Use `git reset --soft HEAD~1` to undo the last commit and keep all the changes,
