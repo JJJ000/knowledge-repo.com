@@ -6,7 +6,7 @@ tags:
 - knowledge
 - git
 created_at: 2022-12-30 00:00:00
-updated_at: 2022-12-30 14:44:55.359725
+updated_at: 2022-12-30 14:46:35.902184
 tldr: Use `git reset --soft HEAD~1` to undo the last commit and keep all the changes,
   or `git reset --hard HEAD~1` to clean up all the changes in the last commit.
 ---
@@ -15,7 +15,7 @@ tldr: Use `git reset --soft HEAD~1` to undo the last commit and keep all the cha
 
 [TOC]
 
-### Look up the Git commit history:
+### Look up the Git commit history
 
 To view the commit history of a Git repository, you can use the `git log` command. By default, this command will show you a list of all commits in the repository, starting with the most recent commit.
 
