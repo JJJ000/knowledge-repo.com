@@ -8,14 +8,14 @@ tags:
 created_at: 2022-12-30 00:00:00
 updated_at: 2022-12-30 14:29:56.705204
 tldr: Use `git reset --soft HEAD~1` to revert the last commit and keep all the changes,
-  or `git reset --hard HEAD~1` to undo all the changes.
+  or `git reset --hard HEAD~1` to clean up fully all the changes in the last commit.
 ---
 
 **Contents**
 
 [TOC]
 
-### Look up the Git commit history:
+### Look up the Git commit history
 
 To view the commit history of a Git repository, you can use the `git log` command. By default, this command will show you a list of all commits in the repository, starting with the most recent commit.
 
@@ -41,7 +41,7 @@ git log --author="John Doe"
 
 ### Revert the last commit
 
-You can also use the `reset command to undo your last commit. For example:
+You can also use the `git reset` command to undo your last commit. For example:
 
 ```shell
 git reset --soft HEAD~1
@@ -63,7 +63,7 @@ git reset --soft commit_hash
 
 This will move the branch pointer to the specified commit, but the changes made in the commit will remain in the working directory and can be committed again in a new commit.
 
-To undo fully the most recent commit in Git, you can use the `git reset` command with the `--hard` option and specify the commit hash of the commit you want to revert to. For example:
+To clean up fully the most recent commit in Git, you can use the `git reset` command with the `--hard` option and specify the commit hash of the commit you want to revert to. For example:
 
 ```shell
 git reset --hard commit_hash
@@ -77,4 +77,4 @@ It's also possible to use the `git revert` command to undo a commit. This create
 git revert commit_hash
 ```
 
-This is a safer option as it doesn't permanently destroy any commits, but it does add an additional commit to the repository's history.
+This is a safer option as it doesn't permanently destroy any commits, and it does add an additional commit to the repository's history.
