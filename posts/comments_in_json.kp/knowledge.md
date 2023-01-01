@@ -1,78 +1,46 @@
 ---
-title: How do I undo the last commit in Git
+title: Is it possible to include comments in JSON? 
 authors:
 - cool_wizard
 tags:
-- git
+- json
 - knowledge
 created_at: 2022-12-30 00:00:00
 updated_at: 2022-12-31 21:44:24.406230
-tldr: Use `git reset --soft HEAD~1` to undo the last commit and keep all the changes,
-  or `git reset --hard HEAD~1` to clean up all the changes in the last commit.
+tldr: No, it is not possible to include comments in a JSON file or document. If you want to include comments in your data, you can use another format that does support comments, such as XML or YAML.
 ---
 
 **Contents**
 
 [TOC]
 
-### Look up the Git commit history
+### Is it possible to include comments in JSON?
 
-To view the commit history of a Git repository, you can use the `git log` command. By default, this command will show you a list of all commits in the repository, starting with the most recent commit:
+No, it is not possible to include comments in a JSON file or document. JSON (JavaScript Object Notation) is a lightweight data interchange format that is designed to be easy for humans to read and write and easy for machines to parse and generate. It is based on a subset of the JavaScript programming language, but it is a language-independent data format. JSON does not support comments, because comments are not necessary for the JSON data to be interpreted correctly and they add extra characters that take up space and increase the size of the file. Instead of using comments, you can use white space, indentation, and line breaks to make the structure of your JSON data more readable for humans.
 
-```shell
-git log
+### Are there any good work-arounds?
+
+If you want to include comments in your data, you can use another format that does support comments, such as XML or YAML. XML (Extensible Markup Language) is a markup language that is commonly used for storing and transporting data. It allows you to add comments using the `<!-- -->` syntax. For example:
+
+```XML
+<!-- This is a comment in XML -->
+<root>
+  <element>Some data</element>
+</root>
 ```
 
-This will display the commit hashes, authors, dates, and commit messages for each commit in the repository.
+YAML (YAML Ain't Markup Language) is a human-readable data serialization language that is commonly used for configuration files, log files, and in applications where data is being stored or transmitted. You can add comments in YAML by starting the line with a `#` character. For example:
 
-You can also use various options to customize the output of `git log`. For example, the `--oneline` option will show the commits in a condensed format, with just the commit hash and the commit message on a single line:
-
-```shell
-git log --oneline
+```YAML
+# This is a comment in YAML
+root:
+  element: Some data
 ```
 
-You can also use the `--author option` to filter the commits by author:
+### Is there a work-around based on JSON?
 
-```shell
-git log --author="John Doe"
-```
+If you are working with a JSON file and you want to include comments for your own reference or to make the structure of the data easier to understand, you can consider using a text editor or an integrated development environment (IDE) that has support for syntax highlighting and code folding. Many text editors and IDEs allow you to add annotations or notes to your code using special symbols or keywords, such as `TODO`, `FIXME`, or `NOTE`. This can help you to organize and document your code without actually modifying the JSON data.
 
-### Undo the last commit
+Another approach is to use a preprocessor or a transpiler that can transform your JSON data into another format that supports comments, such as XML or YAML, and then transform it back into JSON before it is used in your application. For example, you can use a tool like JsonML (JSON Markup Language) to transform your JSON data into an XML-like syntax that supports comments, and then use a tool like xml2json to transform it back into JSON. This can allow you to add comments to your JSON data and keep them separate from the actual data, while still being able to use the JSON data in your application.
 
-You can also use the `git reset` command to undo your last commit:
-
-```shell
-git reset --soft HEAD~1
-```
-
-The `--soft` option means that you will not lose the uncommitted changes you may have. To undo the latest commit, and also any uncommitted changes:
-
-```shell
-git reset --hard HEAD~1
-```
-
-### Reset to a particular commit
-
-If you want to keep the changes made in the commit, but just move the branch pointer to the previous commit, you can use the `git reset` command with the `--soft` option:
-
-```shell
-git reset --soft <commit_hash>
-```
-
-This will move the branch pointer to the specified commit, but the changes made in the commit will remain in the working directory and can be committed again in a new commit.
-
-To undo fully the most recent commit in Git, you can use the `git reset` command with the `--hard` option and specify the commit hash of the commit you want to revert to:
-
-```shell
-git reset --hard <commit_hash>
-```
-
-This will permanently remove the commit and any changes made in the commit from the repository. Be careful when using this option, as the changes are not recoverable.
-
-It's also possible to use the `git revert` command to undo a commit. This creates a new commit that undoes the changes made in the previous commit, rather than permanently deleting the commit. To use git revert, specify the commit hash of the commit you want to undo:
-
-```shell
-git revert <commit_hash>
-```
-
-This is a safer option as it doesn't permanently destroy any commits, but it does add an additional commit to the repository's history.
+Keep in mind, however, that using a preprocessor or a transpiler can add an extra step to your workflow and increase the complexity of your codebase. It is important to weigh the benefits and drawbacks of using a workaround like this before deciding whether it is the right solution for your needs.
