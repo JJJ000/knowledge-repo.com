@@ -4,6 +4,7 @@ authors:
 - sally_smarts
 - wesly_wisdom
 tags:
+- private
 - knowledge
 - example
 created_at: 2016-06-29 00:00:00

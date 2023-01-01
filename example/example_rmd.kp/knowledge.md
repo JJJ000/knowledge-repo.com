@@ -4,6 +4,7 @@ authors:
 - wesley_wisdom
 created_at: 2016-06-29 00:00:00
 tags:
+- private
 - knowledge
 - example
 thumbnail: images/unnamed-chunk-1-1.png

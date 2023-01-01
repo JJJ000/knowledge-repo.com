@@ -43,19 +43,19 @@ knowledge_repo create md example_post.md
 
 4\. Edit the notebook file `example_post.ipynb`, `example_post.Rmd`, or `example_post.md` as you normally would.
 
-5\. Add your post to the repo with in-repository path of `example/post_name`
+5\. Add your post to the repo with in-repository path of `posts/post_name`
 ```
-knowledge_repo add <post_file> -p example/post_name
+knowledge_repo add <post_file> -p posts/post_name
 ```
 
 6\. Preview the added post to ensure everything is rendering correctly
 ```
-knowledge_repo preview example/post_name
+knowledge_repo preview posts/post_name
 ```
 
 7\. Submit post as a new git branch in this repository
 ```
-knowledge_repo submit example/post_name
+knowledge_repo submit posts/post_name
 ```
 
 8\. Open a pull/merge request on your branch through GitHub
