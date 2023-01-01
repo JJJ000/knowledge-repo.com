@@ -6,7 +6,7 @@ tags:
 - json
 - knowledge
 created_at: 2022-12-30 00:00:00
-updated_at: 2022-12-31 21:44:24.406230
+updated_at: 2022-12-31 00:00:00
 tldr: No, it is not possible to include comments in a JSON file or document. If you want to include comments in your data, you can use another format that does support comments, such as XML or YAML.
 ---
 

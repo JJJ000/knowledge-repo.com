@@ -7,7 +7,7 @@ tags:
 - knowledge
 thumbnail: images/thumbnail.png
 created_at: 2022-12-30 00:00:00
-updated_at: 2022-12-30 15:51:49.064480
+updated_at: 2022-12-30 00:00:00
 tldr: Use `git branch -d <branch_name>` to delete a local branch,
   or `git push origin --delete <branch_name>` to delte a remote branch.
 ---
