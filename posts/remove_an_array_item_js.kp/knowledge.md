@@ -8,12 +8,13 @@ tags:
 thumbnail: images/thumbnail.png
 created_at: 2023-01-01 00:00:00
 updated_at: 2023-01-01 00:00:00
-tldr: There are a few ways: `splice()`, `filter()`, `indexOf()`, or `findIndex()`
+tldr: There are a few methods to use, including `splice()`, `filter()`, `indexOf()`, or `findIndex()`
 ---
 
 **Contents**
 
 [TOC]
+
 
 There are several ways to remove a specific item from an array in JavaScript:
 
