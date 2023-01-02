@@ -1,5 +1,5 @@
 ---
-title: How do I delete a Git branch
+title: How do I delete a Git branch?
 authors:
 - cool_wizard
 tags:

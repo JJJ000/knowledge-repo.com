@@ -1,5 +1,5 @@
 ---
-title: How do I undo the last commit in Git
+title: How do I undo the last commit in Git?
 authors:
 - cool_wizard
 tags:
