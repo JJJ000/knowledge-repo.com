@@ -1,14 +1,14 @@
 ---
 title: What does the "yield" keyword do in Python? 
 authors:
-- cool_wizard
+- smart_coder
 tags:
 - python
 - knowledge
 thumbnail: images/thumbnail.png
 created_at: 2022-12-30 00:00:00
 updated_at: 2022-12-31 00:00:00
-tldr: "yield" is used in the body of a function like a return statement, but instead of returning a value and terminating the function, it yields a value and suspends the function's execution, which makes it an efficient way to implement iterators.
+tldr: `yield` is used in the body of a function like a return statement, but instead of returning a value and terminating the function, it yields a value and suspends the function's execution, which makes it an efficient way to implement iterators.
 ---
 
 **Contents**
@@ -17,11 +17,11 @@ tldr: "yield" is used in the body of a function like a return statement, but ins
 
 ### Yield in Python
 
-In Python, the "yield" keyword is used in the body of a function like a return statement, but instead of returning a value and terminating the function, it yields a value and suspends the function's execution. The function can then be resumed later on, allowing it to generate a sequence of values over time, rather than computing them all at once and returning them in a list, for example. This makes it an efficient way to implement iterators, which are objects that allow you to loop over a sequence of values, one at a time.
+In Python, the `yield` keyword is used in the body of a function like a return statement, but instead of returning a value and terminating the function, it yields a value and suspends the function's execution. The function can then be resumed later on, allowing it to generate a sequence of values over time, rather than computing them all at once and returning them in a list, for example. This makes it an efficient way to implement iterators, which are objects that allow you to loop over a sequence of values, one at a time.
 
 ### Examples
 
-Here is an example of a simple generator function that uses the "yield" keyword to yield a sequence of numbers:
+Here is an example of a simple generator function that uses the `yield` keyword to yield a sequence of numbers:
 
 ```Python
 def count_up_to(max):
@@ -44,7 +44,7 @@ This would output the following:
 5
 ```
 
-Here is a more advanced example of a generator function that uses the "yield" keyword to yield a sequence of Fibonacci numbers:
+Here is a more advanced example of a generator function that uses the `yield` keyword to yield a sequence of Fibonacci numbers:
 
 ```Python
 def fibonacci(max):
