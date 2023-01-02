@@ -8,7 +8,7 @@ tags:
 thumbnail: images/thumbnail.png
 created_at: 2022-12-30 00:00:00
 updated_at: 2022-12-31 00:00:00
-tldr: No, it is not possible to include comments in a JSON file or document. If you want to include comments in your data, you can use another format that does support comments, such as XML or YAML.
+tldr: "yield" is used in the body of a function like a return statement, but instead of returning a value and terminating the function, it yields a value and suspends the function's execution, which makes it an efficient way to implement iterators.
 ---
 
 **Contents**
