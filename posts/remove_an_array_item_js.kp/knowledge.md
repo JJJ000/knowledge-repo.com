@@ -24,7 +24,6 @@ There are several ways to remove a specific item from an array in JavaScript:
 let numbers = [1, 2, 3, 4, 5];
 numbers.splice(2, 1);  // removes the element at index 2 (i.e., 3)
 console.log(numbers);  // [1, 2, 4, 5]
-
 ```
 
 ### Using the filter() method
