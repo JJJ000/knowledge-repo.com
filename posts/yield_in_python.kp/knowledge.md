@@ -57,7 +57,7 @@ for number in fibonacci(1000):
     print(number)
 ```
 
-This generator function uses a while loop to generate a sequence of Fibonacci numbers that are less than the maximum value specified by the caller. On each iteration of the loop, it yields the current value of a and then updates a and b with the next two values in the sequence.
+This generator function uses a while loop to generate a sequence of Fibonacci numbers that are less than the maximum value specified by the caller. On each iteration of the loop, it yields the current value of `a` and then updates `a` and `b` with the next two values in the sequence.
 
 This generator function can be used like this:
 
