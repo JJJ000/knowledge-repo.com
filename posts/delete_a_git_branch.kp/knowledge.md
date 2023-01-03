@@ -5,7 +5,7 @@ authors:
 tags:
 - git
 - knowledge
-thumbnail: images/thumbnail.png
+thumbnail: images/git.png
 created_at: 2022-12-30 00:00:00
 updated_at: 2022-12-30 00:00:00
 tldr: Use `git branch -d <branch_name>` to delete a local branch,

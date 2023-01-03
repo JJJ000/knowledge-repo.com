@@ -5,7 +5,7 @@ authors:
 tags:
 - git
 - knowledge
-thumbnail: images/thumbnail.png
+thumbnail: images/git.png
 created_at: 2023-01-01 00:00:00
 updated_at: 2023-01-01 00:00:00
 tldr: Use `git branch -m new-name` to rename the current local branch,

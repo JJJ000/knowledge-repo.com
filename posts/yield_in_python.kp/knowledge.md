@@ -5,7 +5,7 @@ authors:
 tags:
 - python
 - knowledge
-thumbnail: images/thumbnail.png
+thumbnail: images/python.png
 created_at: 2022-12-30 00:00:00
 updated_at: 2022-12-31 00:00:00
 tldr: In a Python function, `yield` is used like a return statement, but instead of returning a value and terminating the function, it yields a value and suspends the execution of the function, allowing the function to be resumed later, which makes it an efficient way to implement iterators.

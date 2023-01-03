@@ -5,7 +5,7 @@ authors:
 tags:
 - JavaScript
 - knowledge
-thumbnail: images/thumbnail.png
+thumbnail: images/javascript.png
 created_at: 2022-01-02 00:00:00
 updated_at: 2022-01-02 00:00:00
 tldr: Use either `includes()` or `indexOf()` of the `String` object.
