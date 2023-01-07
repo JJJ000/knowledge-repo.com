@@ -15,9 +15,9 @@ tldr: It tells the program to execute the code inside the if statement only if t
 
 [TOC]
 
-### What is __name__
+### What is `__name__`
 
-__name__ is a special variable in Python. It is automatically set to "__main__" when a program is executed directly. When a program is imported, the __name__ variable is set to the name of the module that is imported.
+`__name__` is a special variable in Python. It is automatically set to "__main__" when a program is executed directly. When a program is imported, the `__name__` variable is set to the name of the module that is imported.
 
 ### What does `if __name__ == "__main__":` do?
 
