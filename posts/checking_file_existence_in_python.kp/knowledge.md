@@ -25,9 +25,9 @@ The `os.path.exists()` method can be used to check if a file or directory exists
 import os.path
 
 if os.path.exists("myfile.txt"):
-#    print("File exists")
+    print("File exists")
 else:
-#    print("File does not exist")
+    print("File does not exist")
 ```
 
 ### os.path.isfile()
@@ -37,9 +37,9 @@ The `os.path.isfile()` method can be used to check if a file exists. It returns 
 import os.path
 
 if os.path.isfile("myfile.txt"):
-#    print("File exists")
+    print("File exists")
 else:
-#    print("File does not exist")
+    print("File does not exist")
 ```
 
 ### os.path.isdir()
@@ -49,7 +49,7 @@ The `os.path.isdir()` method can be used to check if a directory exists. It retu
 import os.path
 
 if os.path.isdir("mydir"):
-#    print("Directory exists")
+    print("Directory exists")
 else:
-#    print("Directory does not exist")
+    print("Directory does not exist")
 ```
