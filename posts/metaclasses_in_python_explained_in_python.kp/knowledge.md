@@ -25,4 +25,4 @@ Metaclasses are used to customize the class creation process. They are used to m
 Using metaclasses allows developers to customize the behavior of a class without having to modify the code. This makes the code more maintainable and easier to understand. It also allows developers to create classes with more specific behavior than would be possible with traditional classes.
 
 ### Examples
-One example of a metaclass is the type() function. This function can be used to create classes with custom behavior. It can also be used to modify existing classes. For example, if a class has a method that needs to be modified, type() can be used to modify the method without having to modify the code of the class.
+One example of a metaclass is the `type()` function. This function can be used to create classes with custom behavior. It can also be used to modify existing classes. For example, if a class has a method that needs to be modified, `type()` can be used to modify the method without having to modify the code of the class.
