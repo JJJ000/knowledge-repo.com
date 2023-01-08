@@ -1,5 +1,5 @@
 ---
-title: How to check if a given key already exists in a dictionary in Python? 
+title: How to check if a given key already exists in a dictionary? 
 authors:
 - smart_coder
 tags:
