@@ -21,7 +21,7 @@ Sorting a dictionary by value in Python is a common task that can be accomplishe
 
 ### Using the sorted() Function
 
-The sorted() function can be used to sort a dictionary by value in Python. This can be done by passing the dictionary to the sorted() function along with a `key` argument that specifies the value of the dictionary to be used for sorting. For example, to sort a dictionary by its values in ascending order:
+The `sorted()` function can be used to sort a dictionary by value in Python. This can be done by passing the dictionary to the sorted() function along with a `key` argument that specifies the value of the dictionary to be used for sorting. For example, to sort a dictionary by its values in ascending order:
 
 ```python
 sorted_dict = sorted(dictionary, key=dictionary.get)
