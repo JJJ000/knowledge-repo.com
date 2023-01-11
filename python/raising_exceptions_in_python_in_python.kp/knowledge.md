@@ -1,5 +1,5 @@
 ---
-title: Triggering an exception manually in Python.
+title: Triggering an exception manually in Python
 authors:
 - smart_coder
 tags:
