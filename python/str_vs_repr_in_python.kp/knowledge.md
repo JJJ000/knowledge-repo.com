@@ -8,7 +8,7 @@ tags:
 thumbnail: images/python.png
 created_at: 2023-01-08 00:00:00
 updated_at: 2023-01-08 00:00:00
-tldr: "__str__" is used to create a human-readable representation of an object, while "__repr__" is used to create a machine-readable representation of an object.
+tldr: \_\_str\_\_ is used to create a human-readable representation of an object, while \_\_repr\_\_ is used to create a machine-readable representation of an object.
 ---
 
 **Contents**
