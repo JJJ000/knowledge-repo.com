@@ -7,6 +7,10 @@ project.
 If you are looking to contribute a post to this repository, please follow the
 below quickstart guide or the [upstream documentation](http://knowledge-repo.readthedocs.io/en/latest/quickstart.html).
 
+## Live Demo
+
+A hosted website for this project is available at https://www.knowledge-repo.com.
+
 ## Quickstart
 
 1\. Install the knowledge-repo tooling
