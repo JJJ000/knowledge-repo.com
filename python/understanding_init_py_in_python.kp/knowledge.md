@@ -8,7 +8,7 @@ tags:
 thumbnail: images/python.png
 created_at: 2023-01-08 00:00:00
 updated_at: 2023-01-08 00:00:00
-tldr: __init__.py is a special Python file used to indicate that a directory is a Python package.
+tldr: \_\_init\_\_.py is a special Python file used to indicate that a directory is a Python package.
 ---
 
 **Contents**
