@@ -8,7 +8,7 @@ tags:
 thumbnail: images/python.png
 created_at: 2023-01-11 00:00:00
 updated_at: 2023-01-11 00:00:00
-tldr: You can remove a key from a Python dictionary by using the del keyword.
+tldr: You can remove a key from a Python dictionary by using the `del` keyword.
 ---
 
 **Contents**
