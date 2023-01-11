@@ -1,5 +1,5 @@
 ---
-title: What are the distinctions between __str__ and __repr__?
+title: What are the distinctions between "__str__" and "__repr__"?
 authors:
 - smart_coder
 tags:
@@ -8,7 +8,7 @@ tags:
 thumbnail: images/python.png
 created_at: 2023-01-08 00:00:00
 updated_at: 2023-01-08 00:00:00
-tldr: __str__ is used to create a human-readable representation of an object, while __repr__ is used to create a machine-readable representation of an object.
+tldr: "__str__" is used to create a human-readable representation of an object, while "__repr__" is used to create a machine-readable representation of an object.
 ---
 
 **Contents**
