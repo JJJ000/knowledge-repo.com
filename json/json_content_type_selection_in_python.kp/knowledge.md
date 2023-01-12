@@ -1,7 +1,7 @@
 ---
 title: What type of json should i use?
 authors:
-- smart_coder
+- cool_wizard
 tags:
 - python
 - knowledge
