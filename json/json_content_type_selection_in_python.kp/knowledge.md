@@ -3,6 +3,7 @@ title: What type of json should I use?
 authors:
 - cool_wizard
 tags:
+- json
 - python
 - knowledge
 thumbnail: images/json.png
