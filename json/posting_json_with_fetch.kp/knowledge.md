@@ -1,5 +1,5 @@
 ---
-title: Retrieve: How to send JSON data via POST?
+title: How to send JSON data via POST?
 authors:
 - cool_wizard
 tags:

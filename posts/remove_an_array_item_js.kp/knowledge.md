@@ -3,7 +3,7 @@ title: What is the syntax for removing a specific item from an array in JavaScri
 authors:
 - cool_wizard
 tags:
-- JavaScript
+- javascript
 - knowledge
 thumbnail: images/javascript.png
 created_at: 2023-01-01 00:00:00

@@ -3,7 +3,7 @@ title: What is the method for determining if a string includes a specific substr
 authors:
 - cool_wizard
 tags:
-- JavaScript
+- javascript
 - knowledge
 thumbnail: images/javascript.png
 created_at: 2022-01-02 00:00:00

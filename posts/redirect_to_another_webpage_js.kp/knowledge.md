@@ -3,7 +3,7 @@ title: How can I redirect to a different webpage in JavaScript?
 authors:
 - smart_coder
 tags:
-- JavaScript
+- javascript
 - knowledge
 thumbnail: images/javascript.png
 created_at: 2023-01-01 00:00:00
