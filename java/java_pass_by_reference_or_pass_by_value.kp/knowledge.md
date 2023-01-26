@@ -1,5 +1,5 @@
 ---
-title: What is the method of passing data used in Java: "pass-by-reference" or "pass-by-value"?
+title: What is the method of passing data used in Java `pass-by-reference` or `pass-by-value`?
 authors:
 - nanja_dev
 tags:
