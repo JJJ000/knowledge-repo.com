@@ -1,16 +1,15 @@
 ---
+title: This is a Knowledge Template Header
 authors:
 - sally_smarts
 - wesley_wisdom
-created_at: 2016-06-29 00:00:00
 tags:
-- private
 - knowledge
 - example
 thumbnail: images/unnamed-chunk-1-1.png
-title: This is a Knowledge Template Header
+created_at: 2016-06-29 00:00:00
+updated_at: 2023-01-26 00:00:00
 tldr: This is short description of the content and findings of the post.
-updated_at: 2022-03-17 00:03:20.721901
 ---
 
 _NOTE: In the TL,DR, optimize for **clarity** and **comprehensiveness**. The goal is to convey the post with the least amount of friction, especially since notebooks require much more scrolling than blog posts. Make the reader get a correct understanding of the post's takeaway, and the points supporting that takeaway without having to strain through paragraphs and tons of prose. Bullet points are great here, but are up to you. Try to avoid academic paper style abstracts._
