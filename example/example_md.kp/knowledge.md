@@ -7,6 +7,7 @@ tags:
 - private
 - knowledge
 - example
+thumbnail: images/example.png
 created_at: 2016-06-29 00:00:00
 updated_at: 2022-12-29 16:35:17.996552
 tldr: This is short description of the content and findings of the post.
