@@ -21,7 +21,7 @@ tldr: Use the `splice()` method to remove a specific item from an array in JavaS
 
 **Syntax**
 
-```
+```javascript
 array.splice(index, howMany)
 ```
 
