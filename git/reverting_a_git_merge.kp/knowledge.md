@@ -1,5 +1,5 @@
 ---
-title: Revert a git merge
+title: Reverting a previously merged git commit
 authors:
 - know_how
 tags:
@@ -8,39 +8,25 @@ tags:
 thumbnail: images/git.png
 created_at: 2023-01-28 00:00:00
 updated_at: 2023-01-28 00:00:00
-tldr: To rollback a Git merge, use the command `git merge --abort`.
+tldr: To re-do a reverted merge in Git, use the `git revert` command to revert the merge, then use `git merge` to re-perform the merge.
 ---
 
 **Contents**
 
 [TOC]
 
-### Checkout Merge Commit
+### Step 1: Revert Merge
 
-To rollback a git merge, the first step is to check out the merge commit. This can be done by running the following command:
+First, you need to revert the merge that you want to redo. To do this, you can use the `git revert` command. This will create a new commit that undoes the changes made by the merge commit.
 
-```git
-git checkout -b <branch-name> <merge-commit-SHA>
-```
+### Step 2: Checkout the Reverted Merge
 
-Where `<branch-name>` is a name for the branch you will create and `<merge-commit-SHA>` is the SHA of the merge commit you wish to rollback.
+Once you have reverted the merge, you need to check out the reverted merge commit. This can be done using the `git checkout` command. This will checkout the reverted merge commit, allowing you to make changes to it.
 
-### Reset the Repository
+### Step 3: Redo the Merge
 
-Once you have checked out the merge commit, the next step is to reset the repository to the desired state. This can be done by running the following command:
+Once you have checked out the reverted merge commit, you can redo the merge. To do this, you can use the `git merge` command. This will allow you to merge the two branches that were previously merged.
 
-```git
-git reset --hard <desired-commit-SHA>
-```
+### Step 4: Push the Changes
 
-Where `<desired-commit-SHA>` is the SHA of the commit you wish to reset the repository to.
-
-### Push Changes
-
-The final step is to push the changes to the remote repository. This can be done by running the following command:
-
-```git
-git push -f <remote> <branch-name>
-```
-
-Where `<remote>` is the name of the remote repository and `<branch-name>` is the name of the branch created in the first step.
+Once you have redone the merge, you need to push the changes to the remote repository. This can be done using the `git push` command. This will push the changes to the remote repository, allowing other people to see the changes you have made.

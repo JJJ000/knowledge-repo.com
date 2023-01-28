@@ -1,28 +1,32 @@
 ---
-title: Discard local commits in git
+title: What is the process for removing local commits in git?
 authors:
 - know_how
 tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
-tldr: To discard local commits, use the `git reset --hard` command.
+created_at: 2023-01-28 00:00:00
+updated_at: 2023-01-28 00:00:00
+tldr: To discard local commits in Git, use `git reset --hard HEAD~<number\_of\_commits>`.
 ---
 
 **Contents**
 
 [TOC]
 
-### Discard Local Commits
-Discarding local commits in Git is a fairly straightforward process.
+### Step 1: Discard All Uncommitted Changes
 
-### Step 1: Checkout the Branch
-The first step is to checkout the branch that contains the commits you want to discard. This can be done by running the command `git checkout <branch-name>`.
+If you want to discard all uncommitted changes in your working directory, you can use the `git reset --hard HEAD` command. This will reset your working directory to the most recent commit, discarding any changes that have not been committed.
 
-### Step 2: Reset the Branch
-Once the branch is checked out, you can reset it to the commit before the one you want to discard. This can be done by running the command `git reset --hard <commit-hash>`.
+### Step 2: Discard Specific Commits
 
-### Step 3: Push the Changes
-Finally, you can push the changes to the remote repository by running the command `git push --force`. This will overwrite any commits that were previously pushed to the remote branch.
+If you want to discard specific commits, you can use the `git reset` command. This command takes a commit hash as an argument and will reset your working directory to the state of the commit prior to the one specified.
+
+### Step 3: Push the New Commit
+
+Once you have discarded the commits you want to discard, you will need to push the new commit to the remote repository. This can be done using the `git push` command.
+
+### Step 4: Clean Up Your Local Repository
+
+Finally, you should clean up your local repository by using the `git clean` command. This will remove any untracked files and directories from your working directory.
