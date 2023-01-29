@@ -1,5 +1,5 @@
 ---
-title: What is the process for changing to a different branch in git?
+title: Switch the branch's foundation
 authors:
 - know_how
 tags:
@@ -8,25 +8,49 @@ tags:
 thumbnail: images/git.png
 created_at: 2023-01-28 00:00:00
 updated_at: 2023-01-28 00:00:00
-tldr: Use the command `git checkout <branch\_name>` to switch to another branch in git.
+tldr: To change the branch base in Git, use the command `git checkout <branch\_name>`.
 ---
 
 **Contents**
 
 [TOC]
 
-### Using Git Checkout
+### Step 1: Check Out a New Branch
 
-Git checkout is the most common way to switch branches in Git. To switch to an existing branch, use the command `git checkout <branch>` where `<branch>` is the name of the branch you wish to switch to. This will update your working directory to the specified branch.
+1. Use the `git checkout` command to create a new branch:
 
-### Using Git Merge
+```git
+git checkout -b <branch_name>
+```
 
-If you want to merge the changes from another branch into your current branch, use the command `git merge <branch>` where `<branch>` is the name of the branch you want to merge into your current branch. This will merge the changes from the specified branch into your current branch.
+2. This command will create a new branch and switch you to the new branch.
 
-### Using Git Rebase
+### Step 2: Switch to the Existing Branch
 
-If you want to move your current branch to another branch, use the command `git rebase <branch>` where `<branch>` is the name of the branch you want to move your current branch to. This will move your current branch to the specified branch.
+1. Use the `git checkout` command to switch to the existing branch:
 
-### Using Git Cherry-Pick
+```git
+git checkout <existing_branch_name>
+```
 
-If you want to apply the changes from a specific commit to your current branch, use the command `git cherry-pick <commit>` where `<commit>` is the commit SHA of the commit you want to apply. This will apply the changes from the specified commit to your current branch.
+2. This command will switch you to the existing branch.
+
+### Step 3: Set the New Branch as the Base
+
+1. Use the `git branch` command to set the new branch as the base:
+
+```git
+git branch --set-upstream-to=<new_branch_name> <existing_branch_name>
+```
+
+2. This command will set the new branch as the base for the existing branch.
+
+### Step 4: Push the Changes
+
+1. Use the `git push` command to push the changes to the remote repository:
+
+```git
+git push -u origin <existing_branch_name>
+```
+
+2. This command will push the changes to the remote repository.
