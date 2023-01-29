@@ -1,5 +1,5 @@
 ---
-title: What is the process for changing an integer to a string?
+title: Converting a Java integer to a string - the difference between using integer.tostring(i) and new integer(i).tostring()
 authors:
 - nanja_dev
 tags:
@@ -8,50 +8,26 @@ tags:
 thumbnail: images/java.png
 created_at: 2023-01-29 00:00:00
 updated_at: 2023-01-29 00:00:00
-tldr: To convert an int to a String in Java, use the String.valueOf() method.
+tldr: Integer.toString(i) is the preferred method for converting an int to a String.
 ---
 
 **Contents**
 
 [TOC]
 
-### Using the toString() Method
+### Integer.toString(i)
 
-The simplest way to convert an int to a String is to use the toString() method of the Integer class. The toString() method takes an int value as its parameter and returns a String object representing the int parameter.
+This method is a static method of the Integer class. It takes an int value as an argument and returns the String representation of it. It is the simplest and most efficient way to convert an int value to a String.
 
-Example:
-```
-int number = 42;
-String numberString = Integer.toString(number);
-```
+### new Integer(i).toString()
 
-### Using the String.valueOf() Method
+This method creates an Integer object from the given int value and then calls the toString() method on the object. It is not as efficient as the Integer.toString(i) method, since it requires the creation of an object.
 
-Another way to convert an int to a String is to use the String.valueOf() method. This method takes an int value as its parameter and returns a String object representing the int parameter.
+### Advantages of Integer.toString(i)
 
-Example:
-```
-int number = 42;
-String numberString = String.valueOf(number);
-```
+- It is more efficient than the new Integer(i).toString() method.
+- It is simpler to use and understand.
 
-### Using the String Constructor
+### Disadvantages of Integer.toString(i)
 
-You can also use the String constructor to convert an int to a String. The String constructor takes an int value as its parameter and returns a String object representing the int parameter.
-
-Example:
-```
-int number = 42;
-String numberString = new String(number);
-```
-
-### Using the StringBuilder
-
-Finally, you can use the StringBuilder class to convert an int to a String. The StringBuilder class has an append() method which takes an int value as its parameter and returns a String object representing the int parameter.
-
-Example:
-```
-int number = 42;
-StringBuilder sb = new StringBuilder();
-String numberString = sb.append(number).toString();
-```
+- It does not allow for any customization of the output String.
