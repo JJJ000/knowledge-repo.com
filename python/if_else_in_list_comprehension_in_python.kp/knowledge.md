@@ -1,54 +1,38 @@
 ---
-title: A list comprehension with an if/else statement can be written as [x if condition else y for x in iterable]
+title: A list comprehension with an 'if else' statement could look like [x if condition else y for x in iterable]
 authors:
 - smart_coder
 tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
-tldr: No, it is not possible to use if/else in a list comprehension in Python.
+created_at: 2023-02-01 00:00:00
+updated_at: 2023-02-01 00:00:00
+tldr: It is not possible to use an if-else statement in a list comprehension in Python.
 ---
 
 **Contents**
 
 [TOC]
 
-**Using an if/else Statement**
+**Section 1: Syntax**
 
-The if/else statement can be used in a list comprehension to check for a condition and return one result if the condition is true and another result if the condition is false. The syntax is as follows:
+The syntax for an if-else statement in a list comprehension is as follows: 
 
-```
-[expression if condition else other_expression for item in list]
-```
+`[<expression> if <condition> else <expression> for <variable> in <iterable>]`
 
-**Example**
+**Section 2: Example**
 
-Here is an example of a list comprehension that uses an if/else statement to check for even numbers in a list and return the number multiplied by two if it is even, or the number divided by two if it is odd:
+For example, the following list comprehension returns a list of squared numbers for all numbers less than 10 and a list of -1 for all other numbers:
 
-```
-numbers = [1, 2, 3, 4, 5]
-result = [num * 2 if num % 2 == 0 else num / 2 for num in numbers]
+`[x**2 if x < 10 else -1 for x in range(20)]`
 
-# result = [0.5, 4, 1.5, 8, 2.5]
-```
+**Section 3: Output**
 
-**Using Multiple if/else Statements**
+The output of the above list comprehension is: 
 
-The if/else statement can also be used in a list comprehension to check for multiple conditions and return different results depending on which condition is true. The syntax is as follows:
+`[0, 1, 4, 9, 16, 25, 36, 49, 64, 81, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]`
 
-```
-[expression_1 if condition_1 else expression_2 if condition_2 else expression_3 for item in list]
-```
+**Section 4: Explanation**
 
-**Example**
-
-Here is an example of a list comprehension that uses multiple if/else statements to check for numbers in a list and return the number multiplied by three if it is divisible by three, the number multiplied by two if it is divisible by two, or the number divided by two if it is not divisible by either two or three:
-
-```
-numbers = [1, 2, 3, 4, 5, 6]
-result = [num * 3 if num % 3 == 0 else num * 2 if num % 2 == 0 else num / 2 for num in numbers]
-
-# result = [0.5, 4, 9, 8, 2.5, 12]
-```
+The list comprehension iterates through the range 0 to 19 (`range(20)`) and checks if the current number is less than 10 (`x < 10`). If the condition is true, it squares the number (`x**2`) and adds it to the list. If the condition is false, it adds -1 to the list.
