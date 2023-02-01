@@ -1,37 +1,32 @@
 ---
-title: What are the implications of using **kwargs?
+title: How to correctly utilize **kwargs in python
 authors:
 - smart_coder
 tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-30 00:00:00
-updated_at: 2023-01-30 00:00:00
-tldr: **kwargs is a keyword argument dictionary used to pass an arbitrary number of keyword arguments to a function in Python.
+created_at: 2023-02-01 00:00:00
+updated_at: 2023-02-01 00:00:00
+tldr: The proper way to use **kwargs in Python is to pass keyword arguments to a function as a dictionary.
 ---
 
 **Contents**
 
 [TOC]
 
-#### Definition
-**kwargs stands for keyword arguments and is a special syntax in Python used to pass a non-keyworded, variable-length argument list. It allows us to pass the variable number of keyword arguments to a function.
+### 1. Preparing the Keyword Arguments
 
-#### Usage
-**kwargs is used when we want to handle named arguments in a function. When we call a function with some keyword arguments, then the function can use the **kwargs to pass the keyword arguments as a dictionary. The **kwargs can be used to pass keyworded arguments to a function with the help of the double asterisk. 
+When using **kwargs, keyword arguments must be prepared. This can be done by creating a dictionary that contains all of the keyword arguments and their corresponding values.
 
-#### Syntax
-The syntax of **kwargs is as follows:
+### 2. Passing the Keyword Arguments
 
-def function_name(**kwargs):
-    # body of the function
+Once the dictionary of keyword arguments has been created, it can be passed to the function by using the double asterisk (**) operator. This operator allows the dictionary to be unpacked and the keyword argument values can be passed to the function.
 
-#### Example
-For example, if we have a function that takes two arguments, a and b, and we want to pass three arguments to it, we can use **kwargs to do so. 
+### 3. Accessing the Keyword Arguments
 
-def add_numbers(a, b, **kwargs):
-    # body of the function
-    return a + b + kwargs['c']
+Once the keyword arguments have been passed to the function, they can be accessed by using the same double asterisk operator. This allows the keyword argument values to be accessed and used within the function.
 
-add_numbers(1, 2, c=3)  # returns 6
+### 4. Returning the Keyword Arguments
+
+Once the keyword arguments have been accessed and used within the function, they can be returned by using the same double asterisk operator. This allows the keyword argument values to be returned and used outside of the function.
