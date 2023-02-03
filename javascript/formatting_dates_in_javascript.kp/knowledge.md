@@ -1,51 +1,59 @@
 ---
-title: What is the syntax for formatting a date in javascript?
+title: Convert JavaScript date to yyyy-mm-dd format
 authors:
 - smooth_flow
 tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
-tldr: You can format a date in JavaScript using the Date.prototype.toLocaleString() method.
+created_at: 2023-02-03 00:00:00
+updated_at: 2023-02-03 00:00:00
+tldr: Use the built-in Date.prototype.toISOString() method to format a JavaScript date as yyyy-mm-dd.
 ---
 
 **Contents**
 
 [TOC]
 
-### Using the Date Constructor
+# Solution 1
 
-The Date constructor can be used to create a Date object in JavaScript. The constructor takes a number of arguments to specify the date, and the date can be formatted by passing the Date object to the `toLocaleDateString()` method. 
+Using `toISOString()`:
 
 ```javascript
-// Create a Date object with the constructor
-let date = new Date(2020, 11, 24); 
-
-// Format the date with toLocaleDateString()
-let formattedDate = date.toLocaleDateString(); 
-
-console.log(formattedDate); // Outputs "12/24/2020"
+var date = new Date();
+var dateString = date.toISOString().substring(0, 10);
 ```
 
-### Using an External Library
+# Solution 2
 
-An external library such as Moment.js can be used to format a date. Moment.js is a popular library for working with dates and times in JavaScript. 
-
-To use Moment.js, the library must first be included in the project. This can be done by using a CDN or by downloading the library and including it in the project. 
-
-Once the library is included, a Date object can be passed to the `format()` method of the Moment object. This method takes a formatting string as an argument and returns the formatted date. 
+Using `toLocaleDateString()`:
 
 ```javascript
-// Include Moment.js
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js"></script>
+var date = new Date();
+var dateString = date.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit'
+});
+```
 
-// Create a Date object
-let date = new Date(2020, 11, 24); 
+# Solution 3
 
-// Format the date with Moment.js
-let formattedDate = moment(date).format("MM/DD/YYYY"); 
+Using `getFullYear()`, `getMonth()` and `getDate()`:
 
-console.log(formattedDate); // Outputs "12/24/2020"
+```javascript
+var date = new Date();
+var year = date.getFullYear();
+var month = (1 + date.getMonth()).toString().padStart(2, '0');
+var day = date.getDate().toString().padStart(2, '0');
+var dateString = year + '-' + month + '-' + day;
+```
+
+# Solution 4
+
+Using `toJSON()`:
+
+```javascript
+var date = new Date();
+var dateString = date.toJSON().substring(0, 10);
 ```
