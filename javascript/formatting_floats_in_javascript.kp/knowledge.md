@@ -1,5 +1,5 @@
 ---
-title: What is the syntax for formatting a float in javascript?
+title: Showing a float in JavaScript with two decimal places
 authors:
 - smooth_flow
 tags:
@@ -8,32 +8,44 @@ tags:
 thumbnail: images/javascript.png
 created_at: 2023-02-04 00:00:00
 updated_at: 2023-02-04 00:00:00
-tldr: To format a float in JavaScript, use the toFixed() method.
+tldr: You can use the toFixed() method to display a float to 2 decimal places in JavaScript.
 ---
 
 **Contents**
 
 [TOC]
 
-### Using toFixed()
+**Using toFixed() Method:**
 
-The `toFixed()` method is used to format a number to a specified number of decimal places. It takes one argument, which is the number of decimal places to round the number to.
+The `toFixed()` method is used to convert a number into a string, keeping a specified number of decimals.
 
 Syntax:
-
 ```
-num.toFixed(x)
+number.toFixed(x)
 ```
 
-Where `num` is the number to be formatted and `x` is the number of decimal places to round the number to.
-
-### Example
-
-To format a float to two decimal places, the syntax would be:
-
+Example:
 ```
 var num = 5.56789;
 var n = num.toFixed(2);
 ```
 
-The variable `n` would now contain the value `5.57`.
+Output:
+```
+5.57
+```
+
+**Using String Concatenation:**
+
+String concatenation can also be used to convert a float to 2 decimal places.
+
+Example:
+```
+var num = 5.56789;
+var n = Math.round(num * 100) / 100;
+```
+
+Output:
+```
+5.57
+```
