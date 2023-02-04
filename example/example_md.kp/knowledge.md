@@ -1,5 +1,5 @@
 ---
-title: This is a Knowledge Template Header
+title: Example post for a Markdown file
 authors:
 - sally_smarts
 - wesly_wisdom
