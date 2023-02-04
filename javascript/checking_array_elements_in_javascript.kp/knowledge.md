@@ -1,48 +1,68 @@
 ---
-title: See if any elements of one array are present in another array in javascript
+title: See if an item is included in an array
 authors:
 - smooth_flow
 tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-03 00:00:00
-updated_at: 2023-02-03 00:00:00
-tldr: The Array.prototype.some() method can be used to check if an array contains any element of another array.
+created_at: 2023-02-04 00:00:00
+updated_at: 2023-02-04 00:00:00
+tldr: You can use the Array.includes() method to check if an element is present in an array.
 ---
 
 **Contents**
 
 [TOC]
 
-**Section 1: Using the .some() Method**
+### Using `Array.prototype.includes()`
 
-The .some() method can be used to check if an array contains any element of another array. It takes a callback function as an argument and returns true if the callback function returns true for any element in the array.
+The `Array.prototype.includes()` method can be used to check if an element is present in an array. This method returns `true` if the element is present in the array, and `false` if it is not.
 
-**Section 2: Example Code**
+Example:
 
-Here is an example of using the .some() method to check if an array contains any element of another array:
+```js
+const arr = [1, 2, 3];
 
-```javascript
-let arr1 = [1, 2, 3, 4];
-let arr2 = [3, 4, 5, 6];
-
-let result = arr1.some(el => arr2.includes(el));
-console.log(result); // true
+arr.includes(2); // returns true
+arr.includes(4); // returns false
 ```
 
-**Section 3: Using the .filter() Method**
+### Using `Array.prototype.indexOf()`
 
-The .filter() method can also be used to check if an array contains any element of another array. It takes a callback function as an argument and returns an array containing all elements that pass the test implemented by the callback function.
+The `Array.prototype.indexOf()` method can also be used to check if an element is present in an array. This method returns the index of the element if it is present in the array, and `-1` if it is not.
 
-**Section 4: Example Code**
+Example:
 
-Here is an example of using the .filter() method to check if an array contains any element of another array:
+```js
+const arr = [1, 2, 3];
 
-```javascript
-let arr1 = [1, 2, 3, 4];
-let arr2 = [3, 4, 5, 6];
+arr.indexOf(2); // returns 1
+arr.indexOf(4); // returns -1
+```
 
-let result = arr1.filter(el => arr2.includes(el));
-console.log(result); // [3, 4]
+### Using `Array.prototype.some()`
+
+The `Array.prototype.some()` method can be used to check if an element is present in an array. This method returns `true` if at least one element in the array satisfies the provided testing function, and `false` if none of the elements satisfy the testing function.
+
+Example:
+
+```js
+const arr = [1, 2, 3];
+
+arr.some(el => el === 2); // returns true
+arr.some(el => el === 4); // returns false
+```
+
+### Using `Array.prototype.find()`
+
+The `Array.prototype.find()` method can be used to check if an element is present in an array. This method returns the value of the first element in the array that satisfies the provided testing function, and `undefined` if none of the elements satisfy the testing function.
+
+Example:
+
+```js
+const arr = [1, 2, 3];
+
+arr.find(el => el === 2); // returns 2
+arr.find(el => el === 4); // returns undefined
 ```
