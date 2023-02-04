@@ -1,64 +1,54 @@
 ---
-title: Determine if a checkbox has been selected using jquery
+title: Determining if a checkbox has been selected using jquery
 authors:
 - smooth_flow
 tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-03 00:00:00
-updated_at: 2023-02-03 00:00:00
-tldr: To check if a checkbox is checked with jQuery, use the .is(`checked`) method.
+created_at: 2023-02-04 00:00:00
+updated_at: 2023-02-04 00:00:00
+tldr: To test if a checkbox is checked with jQuery, use the .is(`checked`) method.
 ---
 
 **Contents**
 
 [TOC]
 
-# Method 1
+## Checking a Checkbox
 
-Using the `:checked` selector:
+The simplest way to check if a checkbox is checked using jQuery is with the `:checked` selector. This selector will return true if the checkbox is checked and false if it is not.
 
 ```javascript
-if ($('input[type="checkbox"]').is(':checked')) {
-    // Checkbox is checked.
-} else {
-    // Checkbox is not checked.
+if ($('#checkbox').is(':checked')) {
+    // code to execute if checkbox is checked
 }
 ```
 
-# Method 2
+## Unchecking a Checkbox
 
-Using the `.prop()` method:
+To uncheck a checkbox using jQuery, use the `prop` method to set the `checked` property to `false`.
 
 ```javascript
-if ($('input[type="checkbox"]').prop('checked')) {
-    // Checkbox is checked.
-} else {
-    // Checkbox is not checked.
-}
+$('#checkbox').prop('checked', false);
 ```
 
-# Method 3
+## Toggling a Checkbox
 
-Using the `.attr()` method:
+To toggle a checkbox using jQuery, use the `prop` method to set the `checked` property to `true` or `false`.
 
 ```javascript
-if ($('input[type="checkbox"]').attr('checked')) {
-    // Checkbox is checked.
-} else {
-    // Checkbox is not checked.
-}
+$('#checkbox').prop('checked', !$('#checkbox').is(':checked'));
 ```
 
-# Method 4
+## Event Listening
 
-Using the `.val()` method:
+To listen for a change in the state of a checkbox, you can use the `change` event listener. This listener will fire whenever the checkbox is checked or unchecked.
 
 ```javascript
-if ($('input[type="checkbox"]').val() == 'checked') {
-    // Checkbox is checked.
-} else {
-    // Checkbox is not checked.
-}
+$('#checkbox').change(function() {
+    if ($(this).is(':checked')) {
+        // code to execute if checkbox is checked
+    }
+});
 ```
