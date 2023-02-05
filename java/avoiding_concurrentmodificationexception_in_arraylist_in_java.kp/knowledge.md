@@ -1,93 +1,70 @@
 ---
-title: What is the best way to remove elements from an "arraylist" while iterating without causing a "concurrentmodificationexception"?
+title: To avoid a java.util.concurrentmodificationexception when iterating through and removing elements from an arraylist, use an iterator to loop through the list and call the iterator's remove() method to remove the elements
 authors:
 - nanja_dev
 tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
-tldr: Use an Iterator to iterate the ArrayList and call the Iterator`s remove() method to remove elements.
+created_at: 2023-02-05 00:00:00
+updated_at: 2023-02-05 00:00:00
+tldr: Use an Iterator to iterate through the ArrayList and call Iterator.remove() to remove elements.
 ---
 
 **Contents**
 
 [TOC]
 
-### Option 1: Iterator
-The safest and most reliable way to avoid a `ConcurrentModificationException` when removing elements from an `ArrayList` while iterating is to use an `Iterator`. An `Iterator` allows you to traverse the list and remove elements without causing a `ConcurrentModificationException`.
+# Option 1: Using Iterator
 
-### Example
+The Iterator interface provides a safe way to traverse a collection and modify it by removing elements. The `remove()` method of the iterator can be used to remove the current element from the collection.
+
 ```java
-List<String> list = new ArrayList<String>();
-list.add("A");
-list.add("B");
-list.add("C");
-
-Iterator<String> it = list.iterator();
-while (it.hasNext()) {
-   String str = it.next();
-   if (str.equals("B")) {
-      it.remove();
-   }
+Iterator<String> iterator = list.iterator();
+while (iterator.hasNext()) {
+    String element = iterator.next();
+    if (element.equals("elementToRemove")) {
+        iterator.remove();
+    }
 }
 ```
 
-### Option 2: Copy the List
-Another option is to make a copy of the `ArrayList` before iterating. This creates a snapshot of the list that can be iterated without causing a `ConcurrentModificationException`.
+# Option 2: Using ListIterator
 
-### Example
+The ListIterator interface provides a safe way to traverse a list and modify it by removing elements. The `remove()` method of the list iterator can be used to remove the last element returned by the `next()` or `previous()` methods.
+
 ```java
-List<String> list = new ArrayList<String>();
-list.add("A");
-list.add("B");
-list.add("C");
-
-List<String> copyList = new ArrayList<String>(list);
-for (String str : copyList) {
-   if (str.equals("B")) {
-      list.remove(str);
-   }
+ListIterator<String> iterator = list.listIterator();
+while (iterator.hasNext()) {
+    String element = iterator.next();
+    if (element.equals("elementToRemove")) {
+        iterator.remove();
+    }
 }
 ```
 
-### Option 3: Use a While Loop
-Another way to avoid a `ConcurrentModificationException` is to use a `while` loop instead of a `for` loop. This allows you to remove elements from the `ArrayList` without causing an exception.
+# Option 3: Using Copy
 
-### Example
+It is possible to avoid a ConcurrentModificationException by making a copy of the list before iterating over it. The copy can be modified without affecting the original list.
+
 ```java
-List<String> list = new ArrayList<String>();
-list.add("A");
-list.add("B");
-list.add("C");
-
-int i = 0;
-while (i < list.size()) {
-   String str = list.get(i);
-   if (str.equals("B")) {
-      list.remove(str);
-   } else {
-      i++;
-   }
+List<String> copy = new ArrayList<>(list);
+for (String element : copy) {
+    if (element.equals("elementToRemove")) {
+        list.remove(element);
+    }
 }
 ```
 
-### Option 4: Use a ListIterator
-The last option is to use a `ListIterator`. This allows you to traverse the list backwards and remove elements without causing a `ConcurrentModificationException`.
+# Option 4: Using for-loop
 
-### Example
+It is possible to avoid a ConcurrentModificationException by using a for-loop with an explicit index. The index can be used to remove elements from the list.
+
 ```java
-List<String> list = new ArrayList<String>();
-list.add("A");
-list.add("B");
-list.add("C");
-
-ListIterator<String> it = list.listIterator(list.size());
-while (it.hasPrevious()) {
-   String str = it.previous();
-   if (str.equals("B")) {
-      it.remove();
-   }
+for (int i = 0; i < list.size(); i++) {
+    String element = list.get(i);
+    if (element.equals("elementToRemove")) {
+        list.remove(i);
+    }
 }
 ```
