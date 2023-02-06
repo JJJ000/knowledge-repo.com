@@ -1,32 +1,54 @@
 ---
-title: You do not have the necessary authorization to access this github page (public key authentication failed)
+title: Permission to access github was denied due to an invalid public key. unexpectedly, the connection to the remote server was terminated
 authors:
 - know_how
 tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
-tldr: This error message indicates that the user does not have the correct public key associated with their account.
+created_at: 2023-02-06 00:00:00
+updated_at: 2023-02-06 00:00:00
+tldr: The public SSH key used to authenticate the connection is not valid or has not been added to the GitHub account.
 ---
 
 **Contents**
 
 [TOC]
 
-### Overview
+# Solution 1
 
-This error message is thrown when a user attempts to access a repository on GitHub, but the user does not have the correct authentication credentials. This usually occurs when the user is trying to access a private repository and does not have the appropriate SSH key configured on their account. 
+## Check SSH Keys
 
-### Causes
+The most common cause of this issue is that the SSH key associated with the account does not have sufficient permissions. To verify that the SSH key is correctly configured, run the following command:
 
-The most common cause of this error message is that the user does not have the correct SSH key configured on their GitHub account. This key is used to authenticate the user and allow them to access the repository. 
+```
+ssh -T git@github.com
+```
 
-Another possible cause is that the user does not have the correct permissions to access the repository. This could be due to the repository being private and the user not having been added to the list of collaborators. 
+If the output is `Permission denied (publickey)`, then the SSH key needs to be updated or re-generated.
 
-### Solution
+# Solution 2
 
-To resolve this issue, the user should ensure that their SSH key is correctly configured on their GitHub account. If they do not have an SSH key, they should generate one and add it to their account. 
+## Check GitHub Permissions
 
-The user should also ensure that they have been added to the list of collaborators for the repository if it is private. The repository owner should be able to add the user to the list of collaborators.
+If the SSH key is correctly configured, then the issue may be related to the user's GitHub permissions. To verify that the user has sufficient permissions, go to the user's Settings page and check the permissions for the repository.
+
+If the user does not have sufficient permissions, the user can request access from the repository owner.
+
+# Solution 3
+
+## Check Local Configuration
+
+If the SSH key and GitHub permissions are correctly configured, then the issue may be related to the local configuration. To check the local configuration, run the following command:
+
+```
+git config --list
+```
+
+If the output shows any entries related to GitHub, then the user may need to update or reset the configuration.
+
+# Solution 4
+
+## Check Firewall
+
+If all of the above solutions fail, then the issue may be related to a firewall or network configuration. To check if this is the case, try connecting to the repository from a different network or disable the firewall temporarily.
