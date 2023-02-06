@@ -1,44 +1,34 @@
 ---
-title: What should be done with the branch after it has been merged?
+title: Combining two branches in git
 authors:
 - know_how
 tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
-tldr: After a branch is merged into another branch in Git, it should be deleted to avoid confusion and reduce clutter.
+created_at: 2023-02-06 00:00:00
+updated_at: 2023-02-06 00:00:00
+tldr: To merge two branches together in Git, use the command `git merge <branch1> <branch2>`.
 ---
 
 **Contents**
 
 [TOC]
 
-### Delete the Branch
-Once the merge is complete, the branch is no longer needed and can be deleted. This can be done with the following command:
+## Step 1: Checkout the Target Branch
+The first step to merging two branches in Git is to check out the target branch. This is the branch that you want to merge your changes into. To do this, use the command:
 
-```
-git branch -d <branch_name>
-```
+`git checkout <target_branch>`
 
-### Push the Changes
-After merging the branch, the changes need to be pushed to the remote repository. This can be done with the following command:
+## Step 2: Merge the Source Branch
+Once you have checked out the target branch, you can merge the source branch into the target branch. To do this, use the command:
 
-```
-git push origin <branch_name>
-```
+`git merge <source_branch>`
 
-### Check the Log
-It's a good practice to check the git log to make sure the merge was successful. This can be done with the following command:
+## Step 3: Resolve Conflicts
+After merging the source branch into the target branch, you may encounter conflicts. If this happens, you will need to resolve the conflicts manually. This can be done by opening the files with conflicts and manually editing them to resolve the conflicts.
 
-```
-git log --graph --oneline --decorate
-```
+## Step 4: Commit the Changes
+Once you have resolved all of the conflicts, you can commit the changes to the target branch. To do this, use the command:
 
-### Update Remote Branches
-Finally, it's important to update the remote branches to make sure all changes are reflected. This can be done with the following command:
-
-```
-git remote update
-```
+`git commit -m "Merged <source_branch> into <target_branch>"`
