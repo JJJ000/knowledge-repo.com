@@ -1,5 +1,5 @@
 ---
-title: What are nested git repositories?
+title: Keep a git repository within another git repository
 authors:
 - know_how
 tags:
@@ -8,25 +8,25 @@ tags:
 thumbnail: images/git.png
 created_at: 2023-02-06 00:00:00
 updated_at: 2023-02-06 00:00:00
-tldr: A nested Git repository is a Git repository that is stored inside another Git repository.
+tldr: Yes, this is possible by using `git submodules`.
 ---
 
 **Contents**
 
 [TOC]
 
-# Introduction
+# Yes, It Is Possible
 
-Git repositories are a powerful tool for version control and collaboration. They allow developers to keep track of changes to their code and easily share their work with others. However, sometimes it is useful to have multiple repositories within a single project. This is known as a nested Git repository. 
+Git allows you to maintain a repository inside another repository. This is commonly referred to as "nesting" repositories.
 
-# Benefits
+## How To Nest Repositories
 
-Nested Git repositories can be useful in a variety of ways. By having multiple repositories within one project, developers can easily separate different components of their code and keep them organized. This can make it easier to manage large projects and collaborate with others. Additionally, it can also be used to keep track of different versions of the same codebase, allowing developers to quickly switch between versions if needed.
+Nesting repositories is relatively straightforward. To do so, simply create a folder in the parent repository and then use the `git init` command to create a new repository inside the folder.
 
-# Drawbacks
+## Benefits of Nesting Repositories
 
-While nested Git repositories can be useful, they can also have some drawbacks. For example, it can be more difficult to keep track of changes when multiple repositories are involved. Additionally, it can be harder to maintain a consistent workflow when multiple repositories are involved. Finally, nested Git repositories can also be more difficult to set up and maintain, as they require additional configuration.
+Nesting repositories can be useful if you need to keep multiple related projects together in the same repository. For example, you might want to keep a project and its associated documentation in the same repository.
 
-# Conclusion
+## Caveats
 
-Nested Git repositories can be a powerful tool for managing large projects and collaborating with others. However, they can also be more difficult to set up and maintain, and can make it harder to keep track of changes. As such, it is important to consider the pros and cons of using nested Git repositories before deciding to use them.
+Nesting repositories can make it more difficult to manage and keep track of changes. It can also be difficult to keep the nested repositories in sync with the parent repository, as any changes made to the parent repository will not be reflected in the nested repositories.
