@@ -6,27 +6,45 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
-tldr: Use the Date.getTime() method to get the millisecond value of both dates, then subtract the smaller from the larger and divide by 86400000 (the number of milliseconds in one day) to calculate the number of days between the two dates.
+created_at: 2023-02-07 00:00:00
+updated_at: 2023-02-07 00:00:00
+tldr: Use the Date.getTime() method to calculate the difference between two dates in milliseconds, then divide the result by the number of milliseconds in a day (86400000) to get the number of days between the two dates.
 ---
 
 **Contents**
 
 [TOC]
 
-# Section 1: Understanding the Date Object
+## Section 1: Setting up the Date Objects
 
-In order to calculate the number of days between two dates in Javascript, it is important to understand the Date object. The Date object is a built-in object in Javascript that stores the date and time. It provides several methods for manipulating and formatting dates. 
+In order to calculate the number of days between two dates, we must first create two Date objects in Javascript. We can do this by using the new Date() constructor and passing in two parameters: the year and the month (in numerical form):
 
-# Section 2: Calculating the Difference
+```javascript
+var date1 = new Date(2020, 7); // August 1st, 2020
+var date2 = new Date(2020, 10); // November 1st, 2020
+```
 
-Once the Date object is understood, calculating the difference between two dates is relatively straightforward. The Date.now() method can be used to get the current date and time in milliseconds since the Unix epoch. This value can then be used to create two Date objects for the two dates that are being compared. 
+## Section 2: Calculating the Difference
 
-# Section 3: Subtracting the Dates
+Once we have our two Date objects, we can calculate the difference between them using the getTime() method. This will return the number of milliseconds between the two dates. We can then divide this number by the number of milliseconds in a day (1000 * 60 * 60 * 24) to get the number of days between the two dates:
 
-Once the two Date objects have been created, the difference between them can be calculated by subtracting the two dates. The result of this subtraction will be the difference in milliseconds between the two dates. 
+```javascript
+var diff = date2.getTime() - date1.getTime();
+var days = diff / (1000 * 60 * 60 * 24);
+```
 
-# Section 4: Calculating the Number of Days
+## Section 3: Rounding the Result
 
-The final step is to convert the difference in milliseconds into the number of days between the two dates. This can be done by dividing the difference in milliseconds by the number of milliseconds in a day (86400000). The result of this calculation will be the number of days between the two dates.
+Since the result of the calculation will be a decimal, we may want to round the result to get a more accurate number of days between the two dates. We can use the Math.ceil() method to round the result up to the nearest whole number:
+
+```javascript
+var daysRounded = Math.ceil(days);
+```
+
+## Section 4: Outputting the Result
+
+Finally, we can output the result of our calculation to the console using the console.log() method:
+
+```javascript
+console.log(daysRounded); // Outputs '62'
+```
