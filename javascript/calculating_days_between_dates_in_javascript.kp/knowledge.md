@@ -8,43 +8,50 @@ tags:
 thumbnail: images/javascript.png
 created_at: 2023-02-07 00:00:00
 updated_at: 2023-02-07 00:00:00
-tldr: Use the Date.getTime() method to calculate the difference between two dates in milliseconds, then divide the result by the number of milliseconds in a day (86400000) to get the number of days between the two dates.
+tldr: Use the Date.now() method to calculate the difference between two dates in milliseconds, then divide the result by the number of milliseconds in a day (86400000) to get the number of days between the two dates.
 ---
 
 **Contents**
 
 [TOC]
 
-## Section 1: Setting up the Date Objects
+# Section 1: Using Date Object
 
-In order to calculate the number of days between two dates, we must first create two Date objects in Javascript. We can do this by using the new Date() constructor and passing in two parameters: the year and the month (in numerical form):
+The Date object in JavaScript allows us to create Date instances and manipulate them. To calculate the number of days between two dates, we can use the getTime() method to get the number of milliseconds since January 1, 1970, and then subtract the two dates.
 
-```javascript
-var date1 = new Date(2020, 7); // August 1st, 2020
-var date2 = new Date(2020, 10); // November 1st, 2020
+# Section 2: Creating Date Objects
+
+To create Date objects, we can use the Date constructor, which takes a number of arguments. For example, the following code creates a Date object for April 1, 2021:
+
+```
+var date1 = new Date(2021, 3, 1);
 ```
 
-## Section 2: Calculating the Difference
+The arguments for the Date constructor are the year, month (0-11), and day (1-31).
 
-Once we have our two Date objects, we can calculate the difference between them using the getTime() method. This will return the number of milliseconds between the two dates. We can then divide this number by the number of milliseconds in a day (1000 * 60 * 60 * 24) to get the number of days between the two dates:
+# Section 3: Calculating the Difference
 
-```javascript
-var diff = date2.getTime() - date1.getTime();
-var days = diff / (1000 * 60 * 60 * 24);
+Once we have two Date objects, we can calculate the difference between them in days by subtracting the two dates and dividing by the number of milliseconds in a day (1000 * 60 * 60 * 24). The following code calculates the difference between two dates in days:
+
+```
+var dateDiff = (date2.getTime() - date1.getTime()) / (1000 * 60 * 60 * 24);
 ```
 
-## Section 3: Rounding the Result
+# Section 4: Example
 
-Since the result of the calculation will be a decimal, we may want to round the result to get a more accurate number of days between the two dates. We can use the Math.ceil() method to round the result up to the nearest whole number:
+To demonstrate, let's calculate the number of days between April 1, 2021 and April 15, 2021. First, we create two Date objects:
 
-```javascript
-var daysRounded = Math.ceil(days);
+```
+var date1 = new Date(2021, 3, 1);
+var date2 = new Date(2021, 3, 15);
 ```
 
-## Section 4: Outputting the Result
+Then, we can calculate the difference:
 
-Finally, we can output the result of our calculation to the console using the console.log() method:
-
-```javascript
-console.log(daysRounded); // Outputs '62'
 ```
+var dateDiff = (date2.getTime() - date1.getTime()) / (1000 * 60 * 60 * 24);
+
+// dateDiff = 14
+```
+
+The result is 14 days.
