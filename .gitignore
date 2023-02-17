@@ -8,3 +8,4 @@ ENV/
 dev/
 DEV/
 
+.DS_Store
