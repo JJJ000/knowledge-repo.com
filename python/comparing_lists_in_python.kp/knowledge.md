@@ -1,119 +1,79 @@
 ---
-title: What is the best way to compare two lists in Python and find any matches?
+title: What is the method to confirm if two Python lists hold identical elements?
 authors:
 - smart_coder
 tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-01 00:00:00
-updated_at: 2023-02-01 00:00:00
-tldr: You can use the `in` operator to compare two lists and return matches.
+created_at: 2023-03-06 00:00:00
+updated_at: 2023-03-06 00:00:00
+tldr: Check if the sorted versions of the two lists are equal.
 ---
 
 **Contents**
 
 [TOC]
 
-# Section 1: Using 'in' Operator
+## 1. Using Python Sets
 
-The most straightforward way to compare two lists in Python is to use the 'in' operator. This operator allows us to check if a particular element is present in a given list. 
+One common approach to assert if two lists contain the same elements is by converting the lists to sets and comparing them. Sets are unordered collections of unique elements, hence converting the lists to sets and comparing them will eliminate duplicates and ignore order. Here's how to do it:
 
-Syntax:
-```
-element in list
-```
+```python
+list1 = [1, 2, 3]
+list2 = [3, 1, 2]
 
-Example:
-```
-list1 = [1,2,3,4]
-list2 = [2,4,6,8]
-
-for i in list1:
-    if i in list2:
-        print(i)
+if set(list1) == set(list2):
+    print("The lists contain the same elements.")
+else:
+    print("The lists do not contain the same elements.")
 ```
 
-Output:
-```
-2
-4
-```
+## 2. Using Python Counter
 
-# Section 2: Using Sets
+Another approach is to use Python's Counter module. A Counter is a dictionary subclass that counts the occurrences of elements in a collection. Here's how to use it to assert if two lists have the same elements:
 
-Another way to compare two lists in Python is to use the set data structure. A set is an unordered collection of unique elements. We can create two sets from our two lists and then use the intersection() method to find the common elements between them.
+```python
+from collections import Counter
 
-Syntax:
-```
-set1 = set(list1)
-set2 = set(list2)
-common_elements = set1.intersection(set2)
-```
+list1 = [1, 2, 3]
+list2 = [3, 1, 2]
 
-Example:
-```
-list1 = [1,2,3,4]
-list2 = [2,4,6,8]
-
-set1 = set(list1)
-set2 = set(list2)
-common_elements = set1.intersection(set2)
-
-print(common_elements)
+if Counter(list1) == Counter(list2):
+    print("The lists contain the same elements.")
+else:
+    print("The lists do not contain the same elements.")
 ```
 
-Output:
-```
-{2, 4}
-```
+## 3. Using Python Sorting
 
-# Section 3: Using List Comprehension
+Another way to assert if two lists contain the same elements is to sort the lists and compare them. Here's how to do that:
 
-We can also use list comprehension to compare two lists in Python. List comprehension is a concise way of creating a list from another list or iterable. We can use this to create a new list of elements that are common to both lists.
+```python
+list1 = [1, 2, 3]
+list2 = [3, 1, 2]
 
-Syntax:
-```
-common_elements = [element for element in list1 if element in list2]
-```
+list1.sort()
+list2.sort()
 
-Example:
-```
-list1 = [1,2,3,4]
-list2 = [2,4,6,8]
-
-common_elements = [element for element in list1 if element in list2]
-
-print(common_elements)
+if list1 == list2:
+    print("The lists contain the same elements.")
+else:
+    print("The lists do not contain the same elements.")
 ```
 
-Output:
-```
-[2, 4]
+## 4. Using Set Intersection
+
+Finally, we can also use set intersection to assert if two lists contain the same elements. Here's how to do it:
+
+```python
+list1 = [1, 2, 3]
+list2 = [3, 1, 2]
+
+if set(list1).intersection(list2) == set(list1):
+    print("The lists contain the same elements.")
+else:
+    print("The lists do not contain the same elements.")
 ```
 
-# Section 4: Using the zip() Function
-
-The zip() function can also be used to compare two lists in Python. The zip() function takes two or more iterables and returns a zip object which is an iterator of tuples. We can then use the list() function to convert the zip object into a list of tuples. We can then iterate through the list of tuples to find the common elements.
-
-Syntax:
-```
-zipped_lists = zip(list1, list2)
-common_elements = [element for element in list(zipped_lists) if element[0] == element[1]]
-```
-
-Example:
-```
-list1 = [1,2,3,4]
-list2 = [2,4,6,8]
-
-zipped_lists = zip(list1, list2)
-common_elements = [element for element in list(zipped_lists) if element[0] == element[1]]
-
-print(common_elements)
-```
-
-Output:
-```
-[(2, 2), (4, 4)]
-```
+All of these methods will return True if the two lists contain the same elements, regardless of the order they appear in.
