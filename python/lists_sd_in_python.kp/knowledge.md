@@ -2,6 +2,7 @@
 title: The measure of the amount of variability in a sequence
 authors:
 - smart_coder
+- mengtingli1010@gmail.com
 tags:
 - python
 - knowledge
