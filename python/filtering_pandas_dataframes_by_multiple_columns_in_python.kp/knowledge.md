@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use boolean indexing with multiple conditions joined by `&` or `|` to filter pandas dataframes by multiple columns in Python.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: The apt-get function is not working on Mac OS X v10.9 (Mavericks) because Mac OS X uses a different package manager called Homebrew.
 ---
 

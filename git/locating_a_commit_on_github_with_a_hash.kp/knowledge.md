@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: A commit on GitHub with the commit hash `e4b8d2d4f4b9f7a4a98f9d9c9b9b1d7f3a3f8e7e` can be found at https//github.com/[username]/[repository]/commit/e4b8d2d4f4b9f7a4a98f9d9c9b9b1d7f3a3f8e7e.
 ---
 

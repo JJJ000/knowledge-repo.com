@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The version numbers of modules in a multi-module Maven project can be updated by modifying the <version> tag in the project`s pom.xml file.
 ---
 

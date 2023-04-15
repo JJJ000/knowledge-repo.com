@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Run `git remote add <new\_remote\_name> <new\_remote\_url>`, followed by `git push -u <new\_remote\_name> master` to push an existing repo to a new and different remote repo server.
 ---
 

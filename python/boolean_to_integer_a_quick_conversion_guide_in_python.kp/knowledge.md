@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: One possible way to convert a boolean array to an int array in Python is to use the numpy library and its astype() method arr.astype(int).
 ---
 

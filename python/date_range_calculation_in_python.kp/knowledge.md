@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To calculate the number of days between two dates in Python, subtract the earlier date from the later date and use the days attribute of the resulting timedelta object.
 ---
 

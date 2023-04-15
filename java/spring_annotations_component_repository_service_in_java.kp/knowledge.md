@@ -7,8 +7,8 @@ tags:
 - spring
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-23 00:00:00
-updated_at: 2023-01-23 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: In Spring, @Component is a generic annotation for any Spring-managed component, @Repository is a stereotype annotation for data access layers and @Service is a stereotype annotation for service layers.
 ---
 

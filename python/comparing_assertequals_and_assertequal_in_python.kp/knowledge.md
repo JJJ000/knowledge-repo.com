@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: There is no difference between assertEquals and assertEqual in python, they are aliases of each other and can be used interchangeably.
 ---
 

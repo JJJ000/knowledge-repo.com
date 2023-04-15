@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Pressing Ctrl+C sends a signal to the Python interpreter to interrupt and stop the current program execution.
 ---
 

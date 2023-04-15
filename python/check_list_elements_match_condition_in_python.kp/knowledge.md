@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the all() function with a list comprehension or generator expression to check if all elements of a list match a condition in Python.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the `.isin()` method to check if a Pandas column contains a particular value or a list of values.
 ---
 

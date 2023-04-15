@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: No, Conda does not replace the need for virtualenv in Python, but it provides additional features such as managing dependencies for both Python and non-Python packages.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Add the Git repository to the `install\_requires` list in the setup.py file, using the format `git+<repository URL>@<commit ID>#egg=<package name>`.
 ---
 

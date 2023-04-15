@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The group\_by() and count() functions in SQLAlchemy allow you to group and count data in a database query, similar to the GROUP BY and COUNT functions in SQL.
 ---
 

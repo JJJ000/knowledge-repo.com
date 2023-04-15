@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Use the subplots() function from matplotlib module to create multiple subplots and plot on each individual subplot using its respective axis.
 ---
 

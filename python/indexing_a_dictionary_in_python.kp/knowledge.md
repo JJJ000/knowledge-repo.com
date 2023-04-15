@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-15 00:00:00
-updated_at: 2023-03-15 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To index into a dictionary in Python, use the key of the value you want to access enclosed in square brackets.
 ---
 

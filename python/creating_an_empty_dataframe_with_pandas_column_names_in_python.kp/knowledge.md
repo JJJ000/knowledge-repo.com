@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To create an empty DataFrame with only column names in Python, you can pass a list of column names to the DataFrame constructor without any data.
 ---
 

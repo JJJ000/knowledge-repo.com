@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The `uses unchecked or unsafe operations` warning is issued by javac when code uses operations that may result in incorrect or unexpected behavior due to lack of type safety.
 ---
 

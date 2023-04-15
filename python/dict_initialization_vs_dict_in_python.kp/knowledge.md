@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Both curly brace literals {} and the dict() function are considered acceptable syntax for initializing a dict in Python.
 ---
 

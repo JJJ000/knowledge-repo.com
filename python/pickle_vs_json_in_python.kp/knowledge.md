@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: It depends on the specific use case and requirements, as both pickle and JSON have their own strengths and weaknesses.
 ---
 

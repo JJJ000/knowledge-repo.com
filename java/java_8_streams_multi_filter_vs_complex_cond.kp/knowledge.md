@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Multiple filters are generally more efficient than complex conditions when using Java 8 Streams.
 ---
 

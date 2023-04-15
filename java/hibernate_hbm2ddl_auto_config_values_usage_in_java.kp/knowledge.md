@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The possible values of hbm2ddl.auto are `create`, `create-drop`, `update`, `validate`, `none`, and `auto`; they control how Hibernate generates and updates the database schema when the application is started.
 ---
 

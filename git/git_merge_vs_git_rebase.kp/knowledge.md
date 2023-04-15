@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Git merge combines multiple sequences of commits into one unified history, while git rebase replays commits on a different branch onto the current branch.
 ---
 

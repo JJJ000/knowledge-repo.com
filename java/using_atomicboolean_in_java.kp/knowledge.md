@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: AtomicBoolean should be used when multiple threads need to access and modify a boolean variable concurrently.
 ---
 

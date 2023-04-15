@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-11 00:00:00
-updated_at: 2023-03-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Ensure that the .css file is in the correct directory and that the static folder is properly defined in your Flask app.
 ---
 

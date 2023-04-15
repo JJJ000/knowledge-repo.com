@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: If you are building a server-side extension, you need to install postgresql-server-dev-X.Y, and if you are building a client-side application in Python, you need to install libpq-dev.
 ---
 

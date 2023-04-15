@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-30 00:00:00
-updated_at: 2023-01-30 00:00:00
+created_at: 2023-04-30 00:00:00
+updated_at: 2023-04-30 00:00:00
 tldr: Create an empty DataFrame by passing an empty dictionary to the DataFrame constructor, then fill it by assigning values to its columns and rows.
 ---
 

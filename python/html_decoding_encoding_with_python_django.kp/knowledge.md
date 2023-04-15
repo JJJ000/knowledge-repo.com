@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the built-in `html` module in Python for HTML decoding/encoding `import html; encoded\_string = html.escape(unencoded\_string)` and `decoded\_string = html.unescape(encoded\_string)`. For Django, use the `django.utils.html` module `import django.utils.html; encoded\_string = django.utils.html.escape(unencoded\_string)` and `decoded\_string = django.utils.html.unescape(encoded\_string)`.
 ---
 

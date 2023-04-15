@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: An object of custom type can be used as a dictionary key in Python, as long as it is hashable and has properly defined `\_\_hash\_\_()` and `\_\_eq\_\_()` methods.
 ---
 

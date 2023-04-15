@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: You can use Django`s built-in time/date widgets by importing them into your custom form class and setting them as the widget for the corresponding form field.
 ---
 

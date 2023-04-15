@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Add the CSRF token value from the cookie as a header in your AJAX POST request.
 ---
 

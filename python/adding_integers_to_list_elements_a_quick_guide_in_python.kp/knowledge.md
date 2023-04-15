@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: You can use list comprehension to add the integer to each element in the list [x + integer for x in my\_list].
 ---
 

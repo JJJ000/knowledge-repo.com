@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To calculate the cumulative sum of a specific column in a pandas dataframe using groupby function in Python, use the cumsum() method within the parentheses of the groupby() method.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: The `has\_key` method was removed in Python 3, and in Python 2.7 it is recommended to use `in` instead.
 ---
 

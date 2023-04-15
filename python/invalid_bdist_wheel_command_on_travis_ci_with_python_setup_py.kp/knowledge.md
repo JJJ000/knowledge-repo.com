@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-30 00:00:00
-updated_at: 2023-01-30 00:00:00
+created_at: 2023-04-30 00:00:00
+updated_at: 2023-04-30 00:00:00
 tldr: The `bdist\_wheel` command is not supported by the version of Python being used on Travis CI.
 ---
 

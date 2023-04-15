@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: You can rename a Git tag by using the `git tag -d <old\_name>` and `git tag <new\_name>` commands.
 ---
 

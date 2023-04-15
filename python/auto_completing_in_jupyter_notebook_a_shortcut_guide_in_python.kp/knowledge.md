@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To get autocomplete in Jupyter Notebook without using tab in Python, press Shift + Tab after typing the object, method or function name.
 ---
 

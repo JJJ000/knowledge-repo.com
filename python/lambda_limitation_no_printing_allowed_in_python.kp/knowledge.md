@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-11 00:00:00
-updated_at: 2023-03-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Lambda is an expression that returns a value rather than a statement, and hence it cannot print directly.
 ---
 

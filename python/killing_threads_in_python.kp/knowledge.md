@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-30 00:00:00
-updated_at: 2023-01-30 00:00:00
+created_at: 2023-04-30 00:00:00
+updated_at: 2023-04-30 00:00:00
 tldr: Yes, the built-in function threading.Thread.join() can be used to terminate a thread in Python.
 ---
 

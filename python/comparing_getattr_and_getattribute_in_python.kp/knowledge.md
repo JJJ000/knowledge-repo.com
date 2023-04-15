@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: The difference between \_\_getattr\_\_ and \_\_getattribute\_\_ in Python is that \_\_getattr\_\_ is called only when an attribute is not found in the usual places, while \_\_getattribute\_\_ is called every time an attribute is accessed.
 ---
 

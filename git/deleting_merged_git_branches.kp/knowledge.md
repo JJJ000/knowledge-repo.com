@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Run `git branch --merged | grep -v `\*` | xargs -n 1 git branch -d` to delete all merged branches.
 ---
 

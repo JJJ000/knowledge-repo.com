@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To create a namespace package in Python, you need to create a directory with an \_\_init\_\_.py file, and add subsequent directories with their own \_\_init\_\_.py files that declare \_\_path\_\_ variables pointing to the parent directory.
 ---
 

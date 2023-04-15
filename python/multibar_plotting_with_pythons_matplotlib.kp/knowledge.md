@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To create multiple bars in matplotlib in Python, you can use the `bar` function multiple times within a single figure or subplot.
 ---
 

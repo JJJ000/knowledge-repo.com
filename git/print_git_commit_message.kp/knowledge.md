@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: The commit message of a given commit in git is the message that the author of the commit provides to explain the changes made in the commit.
 ---
 

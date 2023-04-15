@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: You can validate an email address in JavaScript by using a regular expression to check if it matches the expected format.
 ---
 

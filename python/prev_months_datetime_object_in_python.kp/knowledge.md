@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: You can use the `datetime` module and its `replace` method to get the datetime object of the previous month `previous\_month = datetime.now().replace(month=datetime.now().month-1)`
 ---
 

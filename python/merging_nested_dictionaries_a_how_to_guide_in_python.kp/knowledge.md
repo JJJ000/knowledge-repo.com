@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Use the update() method on the outer dictionary and pass in the inner dictionary to merge them.
 ---
 

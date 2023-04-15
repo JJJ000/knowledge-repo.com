@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Use a dictionary comprehension with the list as the keys and `0` as the default value for all values in the dictionary.
 ---
 

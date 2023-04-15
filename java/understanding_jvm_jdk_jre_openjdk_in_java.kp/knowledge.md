@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: JVM is the runtime environment that executes Java bytecode, JDK is the development kit used to develop Java applications, JRE is the runtime environment used to run Java applications, and OpenJDK is an open source implementation of the Java Platform.
 ---
 

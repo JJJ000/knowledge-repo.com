@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: To create a new branch from a previous commit using Git, use the `git checkout -b <new\_branch\_name> <commit\_sha>` command.
 ---
 

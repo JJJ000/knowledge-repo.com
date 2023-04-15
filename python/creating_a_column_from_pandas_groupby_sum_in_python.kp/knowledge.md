@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Assign the output of the groupby().sum() method to a new column in the dataframe using the [] operator with the column name in quotes as the key.
 ---
 

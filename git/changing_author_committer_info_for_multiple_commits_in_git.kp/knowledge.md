@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Run `git rebase -i HEAD~<number of commits>` and then use the `reword` command to change the author and committer for each commit.
 ---
 

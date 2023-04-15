@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Tuples are needed in Python (or any immutable data type) to store and pass around data that should not be modified or changed accidentally.
 ---
 

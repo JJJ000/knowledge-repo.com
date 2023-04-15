@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: To activate an Anaconda environment in Python, run the command `conda activate <env\_name>` where env\_name is the name of the environment you want to activate.
 ---
 

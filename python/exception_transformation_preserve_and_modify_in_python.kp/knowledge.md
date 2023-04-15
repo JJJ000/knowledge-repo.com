@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: To re-raise an exception with a different type and message while preserving existing information, use the `raise` statement with the new type and message inside the `except` block followed by the `from` keyword and the original exception.
 ---
 

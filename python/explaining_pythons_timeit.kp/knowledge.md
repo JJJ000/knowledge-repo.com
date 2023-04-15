@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: %timeit is a magic command in Jupyter notebooks that measures the time taken to execute a single line of code and provides the average time taken over multiple runs.
 ---
 

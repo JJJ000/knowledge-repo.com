@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: `property()` can be used on `classmethods` in Python just like regular instance methods, with the `@property` decorator applied to the method.
 ---
 

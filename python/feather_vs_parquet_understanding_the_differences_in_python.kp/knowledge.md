@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-11 00:00:00
-updated_at: 2023-03-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Feather is a fast, lightweight binary format for storing data frames while Parquet is a columnar storage format optimized for large-scale query processing.
 ---
 

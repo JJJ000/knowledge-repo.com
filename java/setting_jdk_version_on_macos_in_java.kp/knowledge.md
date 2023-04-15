@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To set or change the default Java (JDK) version on macOS, use the command line tool `/usr/libexec/java\_home -v [version] -s` to set the desired version.
 ---
 

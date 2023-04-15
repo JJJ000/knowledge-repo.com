@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-01-15 00:00:00
-updated_at: 2023-01-15 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can compare arrays in JavaScript in JSON by using the `JSON.stringify()` method to convert both arrays into strings and then comparing the strings.
 ---
 

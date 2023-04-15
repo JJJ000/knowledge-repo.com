@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-30 00:00:00
-updated_at: 2023-01-30 00:00:00
+created_at: 2023-04-30 00:00:00
+updated_at: 2023-04-30 00:00:00
 tldr: To list all versions of a package that`s available, use the command `pip list --outdated --format=columns` in the Python terminal.
 ---
 

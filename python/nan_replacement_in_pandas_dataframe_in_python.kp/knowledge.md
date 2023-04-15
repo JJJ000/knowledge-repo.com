@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Use the pandas DataFrame method `fillna()` with the method parameter set to either `ffill` (forward fill) or `bfill` (backward fill) to replace NaN values with preceding or next values, respectively.
 ---
 

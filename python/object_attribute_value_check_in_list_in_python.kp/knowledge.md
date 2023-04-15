@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To check if a list of objects contains an object with a certain attribute value in Python, you can use a list comprehension and the `any()` function to return a Boolean value.
 ---
 

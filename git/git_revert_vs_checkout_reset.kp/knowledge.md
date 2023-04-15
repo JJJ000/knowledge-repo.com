@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Git Revert creates a new commit that undoes the changes of a previous commit, Git Checkout changes the working directory to a previous commit, and Git Reset moves the current branch tip backward to a previous commit.
 ---
 

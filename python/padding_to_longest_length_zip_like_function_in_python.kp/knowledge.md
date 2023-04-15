@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Yes, the itertools.zip\_longest() function can be used in Python to zip two or more iterables together and pad the shorter ones with a specified fill value to match the length of the longest iterable.
 ---
 

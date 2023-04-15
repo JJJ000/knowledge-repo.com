@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: System.currentTimeMillis returns the current time in milliseconds since January 1, 1970, while System.nanoTime returns the current time in nanoseconds since some unspecified starting point in the past.
 ---
 

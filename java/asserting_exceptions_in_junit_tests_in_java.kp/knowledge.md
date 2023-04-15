@@ -7,8 +7,8 @@ tags:
 - junit
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-23 00:00:00
-updated_at: 2023-01-23 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: In JUnit tests, an exception can be asserted by using the assertThrows() method.
 ---
 

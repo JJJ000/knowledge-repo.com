@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A String can be checked for not being null and not empty by using the method `String.isEmpty()` to check if the String is empty and `String != null` to check if the String is not null.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Using reserved words as property names in Json can be avoided by enclosing the property name in quotes or by escaping the character.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Distutils is still a thing in Python because it is part of the standard library and provides basic functionality for packaging and distributing Python modules, while setuptools offers more advanced features and is not included in the standard library.
 ---
 

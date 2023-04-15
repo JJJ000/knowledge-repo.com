@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can add a directory to sys.path or PYTHONPATH by using the append method of sys.path or by setting the environment variable PYTHONPATH.
 ---
 

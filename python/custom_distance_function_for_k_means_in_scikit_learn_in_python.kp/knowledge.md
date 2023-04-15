@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Yes, it is possible to specify your own distance function using scikit-learn K-Means Clustering in Python by creating a custom metric function and passing it to the algorithm.
 ---
 

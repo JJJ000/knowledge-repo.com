@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: By defining a Formatter with format string that includes %(funcName)s, %(filename)s, and %(lineno)d, and setting it to the root logger`s handler, the Python logging module can be used to log function name, file name, and line number using a single file.
 ---
 

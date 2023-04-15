@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the `subprocess.Popen` constructor with the `stdout` argument set to `subprocess.PIPE`, and call `communicate()` or `stdout.read()` in a loop to continuously read and display the output until the process is complete.
 ---
 

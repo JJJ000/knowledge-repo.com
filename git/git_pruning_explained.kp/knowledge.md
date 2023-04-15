@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Git remote prune removes stale references from a remote repository, git prune removes objects that are no longer pointed to by any object in any reachable branch, and git fetch --prune updates the local repository with the remote repository, while also pruning any stale references.
 ---
 

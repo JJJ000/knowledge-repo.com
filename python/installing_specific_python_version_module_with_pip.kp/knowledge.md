@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: To install a module using pip for a specific Python version, run the following command 
 <code>pip3.7 install [module-name]</code> where 3.7 is the specific Python version.
 ---

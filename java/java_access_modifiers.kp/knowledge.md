@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-23 00:00:00
-updated_at: 2023-01-23 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Public allows access from any class, protected allows access from classes in the same package and subclasses, package-private allows access only from classes in the same package, and private allows access only from the same class.
 ---
 

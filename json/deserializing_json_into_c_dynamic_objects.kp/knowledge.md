@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-18 00:00:00
-updated_at: 2023-01-18 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: The `Newtonsoft.Json` library can be used to deserialize JSON into a dynamic C# object.
 ---
 

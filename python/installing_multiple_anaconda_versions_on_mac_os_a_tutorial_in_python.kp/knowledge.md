@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-11 00:00:00
-updated_at: 2023-03-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Download and install Anaconda for Python 2 and Anaconda for Python 3 separately, and use the command `anaconda-n` for Python 2 and `anaconda3-n` for Python 3 in the terminal to switch between versions.
 ---
 

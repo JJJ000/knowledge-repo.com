@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Java SE is the standard edition for creating desktop applications, Java EE is the enterprise edition for creating web applications, and Java ME is the micro edition for creating mobile applications.
 ---
 

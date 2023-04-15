@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To plot in a non-blocking way with Matplotlib in Python, use the `ion()` function to turn on interactive mode and the `draw()` function to update the plot.
 ---
 

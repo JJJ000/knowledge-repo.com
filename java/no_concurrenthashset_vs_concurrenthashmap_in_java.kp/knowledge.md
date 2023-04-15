@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A Set is a Collection of unique elements, and a Map is a Collection of key-value pairs, so a ConcurrentHashSet is not necessary since a ConcurrentHashMap can provide the same functionality.
 ---
 

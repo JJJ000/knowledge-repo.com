@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: The Sign Off feature in Git is used to add a Signed-off-by line to the end of a commit message, indicating that the commit has been reviewed and accepted.
 ---
 

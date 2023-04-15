@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To reduce left and right margins in a matplotlib plot in Python, use the `subplots\_adjust()` function with the `left` and `right` parameters.
 ---
 

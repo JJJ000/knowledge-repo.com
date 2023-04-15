@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: y stands for yes, n stands for no, q stands for quit, a stands for abort, d stands for debug, / stands for search, K stands for KDiff3, j stands for jjMerge, J stands for JKMerge, g stands for GUI (Graphical User Interface), e stands for edit, and ? stands for help.
 ---
 

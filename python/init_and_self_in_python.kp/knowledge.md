@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-30 00:00:00
-updated_at: 2023-01-30 00:00:00
+created_at: 2023-04-30 00:00:00
+updated_at: 2023-04-30 00:00:00
 tldr: \_\_init\_\_ is a special method used to initialize objects, and self is a reference to the instance of the object itself, used to access its attributes and methods.
 ---
 

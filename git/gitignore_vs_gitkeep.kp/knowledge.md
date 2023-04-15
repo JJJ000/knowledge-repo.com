@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: .gitignore is used to specify which files and directories should be ignored by Git, while .gitkeep is used to create an empty directory that will be tracked by Git.
 ---
 

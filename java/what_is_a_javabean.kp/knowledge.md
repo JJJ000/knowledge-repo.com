@@ -7,8 +7,8 @@ tags:
 - javabean
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-23 00:00:00
-updated_at: 2023-01-23 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A `JavaBean` is a reusable software component written in Java that conforms to a specific convention of coding and class structure.
 ---
 

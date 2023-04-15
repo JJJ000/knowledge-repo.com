@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Git pull fetches changes from a remote repository and merges them into the local branch, whereas git pull --rebase fetches changes from a remote repository and reapplies them on top of the local branch.
 ---
 

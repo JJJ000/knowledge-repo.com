@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: The simplest way to get APT command line interface-like yes/no input in Python is to use the built-in `input()` function and create a loop to keep prompting the user until a valid input is received.
 ---
 

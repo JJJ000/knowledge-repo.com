@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: The module sklearn.cross\_validation has been renamed to sklearn.model\_selection in more recent versions of scikit-learn, so you should use `from sklearn.model\_selection import train\_test\_split` instead.
 ---
 

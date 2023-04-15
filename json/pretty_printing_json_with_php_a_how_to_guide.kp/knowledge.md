@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-22 00:00:00
-updated_at: 2023-01-22 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: PHP's `json_encode()` function can be used to pretty-print JSON.
 ---
 

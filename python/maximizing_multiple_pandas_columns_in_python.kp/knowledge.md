@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the `max()` function with the `axis` parameter set to 1 to find the maximum of two or more columns in Pandas, where the `axis` parameter specifies the axis to apply the function on, and `1` stands for column-wise.
 ---
 

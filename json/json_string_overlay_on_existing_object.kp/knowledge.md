@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use a library like Jackson or Gson to deserialize the JSON string and map it to the existing object instance.
 ---
 

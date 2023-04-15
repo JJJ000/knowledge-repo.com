@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-11 00:00:00
-updated_at: 2023-03-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the strftime() function with the format codes %m for the month and %d for the day, as shown in strftime(`%m %d`, date).
 ---
 

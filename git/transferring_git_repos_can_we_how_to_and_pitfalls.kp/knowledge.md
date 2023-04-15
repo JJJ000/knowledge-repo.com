@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Yes, you can transfer git repositories from GitLab to GitHub using the GitHub Importer, however there may be some pitfalls such as potential data loss or compatibility issues.
 ---
 

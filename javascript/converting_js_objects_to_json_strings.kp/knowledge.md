@@ -7,8 +7,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-01-15 00:00:00
-updated_at: 2023-01-15 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the `JSON.stringify()` method to convert a JavaScript object to a JSON string.
 ---
 

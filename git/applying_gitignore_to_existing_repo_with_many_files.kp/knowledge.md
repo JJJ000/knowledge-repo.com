@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Yes, you can apply a .gitignore file to an existing repository that is already tracking large number of files by adding the .gitignore file to the repository and committing it.
 ---
 

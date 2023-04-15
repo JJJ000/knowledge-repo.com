@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To hide tick label values but keep axis labels in Python, you can set the tick label values to an empty list using plt.xticks([]) or ax.set\_xticklabels([]) if using an axis object.
 ---
 

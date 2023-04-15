@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: An intent can be used to launch Google Maps Directions by setting the action to ACTION\_VIEW and the URI to a valid directions intent URL.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-11 00:00:00
-updated_at: 2023-03-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: `iteritems()` should be used instead of `items()` when working with large datasets in Python 2.x to avoid excessive memory usage. (Note `iteritems()` is no longer available in Python 3.x)
 ---
 

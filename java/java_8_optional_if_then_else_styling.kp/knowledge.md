@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The functional style of Java 8`s Optional.ifPresent is to execute the given action if a value is present, and the functional style of the if-not-Present is to execute the given action if a value is not present.
 ---
 

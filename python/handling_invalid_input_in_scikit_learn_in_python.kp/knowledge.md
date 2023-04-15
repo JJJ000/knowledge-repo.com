@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: The NaN, infinity or a value too large for dtype(`float64`) error in sklearn occurs when there are missing or invalid values in the input dataset.
 ---
 

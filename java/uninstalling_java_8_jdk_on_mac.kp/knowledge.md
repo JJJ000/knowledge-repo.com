@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Open the Terminal and run the command `sudo rm -rf /Library/Java/JavaVirtualMachines/jdk1.8.0\_*.jdk`.
 ---
 

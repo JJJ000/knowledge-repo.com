@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-08 00:00:00
-updated_at: 2023-01-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Yes, Python does have a ternary conditional operator, which is written as "condition_if_true if condition else condition_if_false".
 ---
 

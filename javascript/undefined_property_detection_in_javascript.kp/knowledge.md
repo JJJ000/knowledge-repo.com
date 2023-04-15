@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: You can detect an undefined object property in Javascript by using the `typeof` operator to check if the property is undefined.
 ---
 

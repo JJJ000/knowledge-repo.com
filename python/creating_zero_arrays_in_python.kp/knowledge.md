@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To declare an array of zeros in Python, use the following command `array\_name = [0] * size\_of\_array` (replace `array\_name` and `size\_of\_array` with your desired variable names and values).
 ---
 

@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: You can download a single folder or directory from a GitHub repo by using the `Clone or download` button, selecting `Download ZIP`, and then extracting the desired folder or directory from the ZIP file.
 ---
 

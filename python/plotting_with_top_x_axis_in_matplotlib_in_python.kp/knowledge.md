@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: One way to move the x-axis to the top of a plot in matplotlib is to use the set\_position method of the axis object to set its position to the top of the figure.
 ---
 

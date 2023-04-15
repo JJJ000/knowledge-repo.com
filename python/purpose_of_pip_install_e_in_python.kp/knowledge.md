@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: `pip install -e` is used to install a Python package in `editable` mode, allowing developers to continuously make changes to the code without having to reinstall it each time.
 ---
 

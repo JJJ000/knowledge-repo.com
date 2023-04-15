@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To label axes on a Seaborn Barplot in Python, we can use the functions `set\_xlabel()` and `set\_ylabel()` from matplotlib.
 ---
 

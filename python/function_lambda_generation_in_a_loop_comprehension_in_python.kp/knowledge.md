@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: It is possible to create functions (or lambdas) in a loop (or comprehension) in Python using the `def` or `lambda` keyword and then call the function or lambda.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To access object attribute given string corresponding to the name of that attribute in Python, use the built-in function `getattr(object, attribute\_name)` to get the attribute value or `setattr(object, attribute\_name, value)` to set the attribute value.
 ---
 

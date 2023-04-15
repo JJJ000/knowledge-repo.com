@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Add the following dependencies to your app-level build.gradle file implementation `com.fasterxml.jackson.corejackson-core2.12.3` and implementation `org.boonboon-core0.35`.
 ---
 

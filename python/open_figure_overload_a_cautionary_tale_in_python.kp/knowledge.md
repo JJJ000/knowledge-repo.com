@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: When working with Python graphics, a warning about too many open figures usually indicates that a script has opened many figures but has not closed them, which could lead to memory-related errors or a slowdown in performance.
 ---
 

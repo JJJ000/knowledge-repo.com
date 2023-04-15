@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-02 00:00:00
-updated_at: 2023-01-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The main difference between the two is that `git pull` automatically merges the new data into the current branch, while `git fetch` downloads the new data but does not automatically merge it.
 ---
 

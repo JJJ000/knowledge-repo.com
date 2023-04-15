@@ -8,8 +8,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-22 00:00:00
-updated_at: 2023-01-22 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can use the fetch API to make a POST request and receive a JSON response.
 ---
 

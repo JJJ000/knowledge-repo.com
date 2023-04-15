@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: When testing for exceptions with assertRaises(), pass in the expected exception class as the first argument and the function or code block that raises the exception as the second argument.
 ---
 

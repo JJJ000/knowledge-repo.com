@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: The package containing `limits.h` is missing in Alpine Linux, so it needs to be installed manually with `apk add --no-cache linux-headers`.
 ---
 

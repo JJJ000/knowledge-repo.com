@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: The HEAD is a pointer to the current branch and commit, the working tree is the files that are being tracked, and the index is a staging area for changes to be committed.
 ---
 

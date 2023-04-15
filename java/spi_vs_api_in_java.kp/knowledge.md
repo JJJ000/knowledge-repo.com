@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: SPI stands for Service Provider Interface and is a set of interfaces and classes that allow the application to extend its capabilities, while API stands for Application Programming Interface and is a set of functions and procedures that allow applications to access system services.
 ---
 

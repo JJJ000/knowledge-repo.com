@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-16 00:00:00
-updated_at: 2023-01-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: In Notepad++, you can reformat JSON using the `Plugins > JSON Viewer > Beautify` command.
 ---
 

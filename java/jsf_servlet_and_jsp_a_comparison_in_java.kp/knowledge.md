@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: JSF is a component-based web framework, Servlet is a server-side Java technology for handling requests and responses, and JSP is a server-side technology for creating dynamic web pages.
 ---
 

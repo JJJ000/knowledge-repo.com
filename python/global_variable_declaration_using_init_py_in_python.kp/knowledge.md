@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-11 00:00:00
-updated_at: 2023-03-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Yes, it is possible to use `\_\_init\_\_.py` to define global variables in Python, but it is not recommended because it can lead to confusion and unexpected behavior.
 ---
 

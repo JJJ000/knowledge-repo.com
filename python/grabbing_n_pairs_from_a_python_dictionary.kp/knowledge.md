@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Use dictionary comprehension to generate a new dictionary with the desired number of keyvalue pairs using the `list()` and `iter()` functions to iterate over the original dictionary`s items.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Atomic variables are thread-safe and guarantee that all operations on them are atomic, volatile variables guarantee visibility of changes made by one thread to other threads, and synchronized blocks/methods guarantee exclusive access to a shared resource.
 ---
 

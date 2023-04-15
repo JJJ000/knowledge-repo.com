@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: isinstance(`aaa`, basestring) is equivalent to isinstance(`aaa`, str) in Python 3.x as basestring is removed from the language, but in Python 2.x, isinstance(`aaa`, basestring) also checks if the object is an instance of unicode.
 ---
 

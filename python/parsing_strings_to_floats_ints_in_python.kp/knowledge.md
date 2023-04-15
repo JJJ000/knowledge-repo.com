@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-11 00:00:00
-updated_at: 2023-01-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the `float()` or `int()` function to parse a string to a `float` or `int` in Python.
 ---
 

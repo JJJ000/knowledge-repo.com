@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-03-03 00:00:00
-updated_at: 2023-03-03 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A list can be serialized to JSON by using the json.dumps() method.
 ---
 

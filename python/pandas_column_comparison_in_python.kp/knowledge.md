@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To compare two columns in pandas, use the syntax `df[`column1`] < df[`column2`]` if you want to compare if values in column 1 are less than values in column 2.
 ---
 

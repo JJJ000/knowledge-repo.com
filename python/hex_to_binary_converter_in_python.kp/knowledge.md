@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-15 00:00:00
-updated_at: 2023-03-15 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To convert hex to binary in Python, use the built-in function bin(int(hex\_value,16)) where hex\_value is the hex string.
 ---
 

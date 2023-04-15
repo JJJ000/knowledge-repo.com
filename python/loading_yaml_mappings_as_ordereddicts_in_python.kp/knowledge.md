@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can use the `yaml.load()` function from the PyYAML library with the `Loader=yaml.FullLoader` parameter to load YAML mappings as OrderedDicts.
 ---
 

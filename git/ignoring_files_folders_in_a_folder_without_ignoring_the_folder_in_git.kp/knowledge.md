@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Use a `.gitignore` file in the folder with a wildcard pattern (`*`) to ignore all files and folders in the folder, but not the folder itself.
 ---
 

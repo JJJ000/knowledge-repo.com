@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the Integer.parseInt() method with a radix of 16 to convert each two-character substring of the hex dump string into an integer, and then use the Integer.byteValue() method to convert each integer into a byte.
 ---
 

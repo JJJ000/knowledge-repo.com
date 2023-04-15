@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: You can save an image to a Django ImageField by creating a new instance of the model with the ImageField, setting the file attribute to the image file you want to save, and then calling the save() method on the instance.
 ---
 

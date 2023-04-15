@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Nested try/except blocks in Python can be a good programming practice under certain circumstances, such as when you need to handle different types of exceptions in different ways within the same function or block of code.
 ---
 

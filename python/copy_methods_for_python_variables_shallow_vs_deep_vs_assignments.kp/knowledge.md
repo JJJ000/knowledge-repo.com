@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Shallow copy creates a new object which stores a reference to the original object, while deepcopy creates a new object with a new memory address, and normal assignment operation creates a reference to the original object.
 ---
 

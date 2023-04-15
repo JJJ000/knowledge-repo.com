@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: The `--no-ff` flag prevents Git from performing a fast-forward merge, which creates a merge commit even when the branch could be fast-forwarded.
 ---
 

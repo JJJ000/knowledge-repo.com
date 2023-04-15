@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: For each enum constant, use a for-loop to iterate over the enum, e.g. `for (MyEnum myEnum  MyEnum.values()) { ... }`.
 ---
 

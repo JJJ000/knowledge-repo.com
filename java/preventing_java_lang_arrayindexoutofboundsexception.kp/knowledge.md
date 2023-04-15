@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A java.lang.ArrayIndexOutOfBoundsException occurs when trying to access an array index that does not exist, and can be prevented by ensuring that the index is within the array bounds.
 ---
 

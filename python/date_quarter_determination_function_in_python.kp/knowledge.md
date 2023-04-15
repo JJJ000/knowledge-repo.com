@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-14 00:00:00
-updated_at: 2023-03-14 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Yes, the quarter of a year can be determined using the datetime module in Python by accessing the attribute `quarter` of a datetime object.
 ---
 

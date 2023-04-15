@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: To do a GitHub pull request, you must create a branch off of the base branch, make your changes, commit them, and then open a pull request to have your changes reviewed and merged.
 ---
 

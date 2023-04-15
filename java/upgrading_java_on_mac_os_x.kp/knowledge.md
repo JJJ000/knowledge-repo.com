@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Run the command `java -version` to check which version of Java is being used, then use the command `export JAVA\_HOME=<path/to/java/7>` to set the JAVA\_HOME environment variable to the path of the Java 7 installation.
 ---
 

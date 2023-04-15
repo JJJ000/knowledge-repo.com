@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can filter objects for count annotation in Django using the filter() method in the queryset, and then use the annotate() method to count the number of objects that match the filter criteria.
 ---
 

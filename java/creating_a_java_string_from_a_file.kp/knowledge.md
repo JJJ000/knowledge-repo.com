@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-23 00:00:00
-updated_at: 2023-01-23 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the `Files.readAllBytes()` method to read the contents of the file into a byte array, then use the `new String(byte[])` constructor to create a Java string from the byte array.
 ---
 

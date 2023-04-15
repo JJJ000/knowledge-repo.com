@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: There is no direct equivalent of the sleep() function in JavaScript; however, setTimeout() can be used to delay code execution.
 ---
 

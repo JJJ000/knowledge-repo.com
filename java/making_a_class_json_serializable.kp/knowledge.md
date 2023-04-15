@@ -7,8 +7,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-15 00:00:00
-updated_at: 2023-01-15 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Make the class implement the `Serializable` interface.
 ---
 

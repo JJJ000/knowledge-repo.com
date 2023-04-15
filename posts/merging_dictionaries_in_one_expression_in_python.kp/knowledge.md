@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-08 00:00:00
-updated_at: 2023-01-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: You can merge two dictionaries in a single expression by using the `{**dict1, **dict2}` syntax.
 ---
 

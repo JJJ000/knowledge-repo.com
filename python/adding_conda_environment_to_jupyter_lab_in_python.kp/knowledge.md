@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: `Run the command `conda activate <environment\_name>` in your Jupyter Lab terminal, then install the `ipykernel` package using `conda install ipykernel` to add the environment to Jupyter Lab.`
 ---
 

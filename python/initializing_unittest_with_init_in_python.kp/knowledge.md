@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: \_\_init\_\_ is a special method in Python classes that is called when an instance of the class is created, but it is not required in unittest.TestCase classes as they are instantiated by the testing framework.
 ---
 

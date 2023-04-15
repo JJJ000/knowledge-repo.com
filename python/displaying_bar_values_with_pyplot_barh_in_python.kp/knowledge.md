@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Use the `plt.text()` function to add the value of each bar as a label to the corresponding bar in a horizontal bar chart created using `pyplot.barh()`.
 ---
 

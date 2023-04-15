@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To create a directory path in Python pathlib, you can use the .mkdir(parents=True, exist\_ok=True) method, which creates all parent directories (if they don’t exist) and creates the directory (if it doesn’t exist).
 ---
 

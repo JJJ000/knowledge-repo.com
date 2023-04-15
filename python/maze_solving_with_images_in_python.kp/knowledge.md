@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: This can be achieved by using image processing techniques to identify the start and end points, the walls, and the pathways, and implementing a search algorithm such as depth-first search or breadth-first search to find the solution.
 ---
 

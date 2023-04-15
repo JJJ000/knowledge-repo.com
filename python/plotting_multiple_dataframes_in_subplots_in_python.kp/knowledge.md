@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Use matplotlib`s `subplots` function to create a grid of plots and plot each dataframe on a subplot using the `ax` parameter of each plot method.
 ---
 

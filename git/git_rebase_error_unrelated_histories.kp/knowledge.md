@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-26 00:00:00
-updated_at: 2023-01-26 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Git will refuse to merge unrelated histories on rebase, and the `--allow-unrelated-histories` flag must be used to override this.
 ---
 

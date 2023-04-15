@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-15 00:00:00
-updated_at: 2023-01-15 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The correct JSON date format is `YYYY-MM-DDThh:mm:ss.sssZ`, where `T` is a literal character separating the date and time, and `Z` indicates the time is in UTC.
 ---
 

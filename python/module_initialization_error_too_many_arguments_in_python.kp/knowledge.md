@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: When defining a class in Python, make sure to put `self` as the first parameter in the `\_\_init\_\_` method, because it takes one implicit argument, which is the class instance itself.
 ---
 

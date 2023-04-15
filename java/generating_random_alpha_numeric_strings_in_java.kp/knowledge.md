@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-23 00:00:00
-updated_at: 2023-01-23 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A random alpha-numeric string can be generated in Java by using the Random class and its `nextInt()` method to generate random numbers and combining them with characters from the ASCII character set.
 ---
 

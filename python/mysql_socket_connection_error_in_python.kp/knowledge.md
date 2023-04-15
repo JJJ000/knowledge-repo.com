@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-11 00:00:00
-updated_at: 2023-03-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: This error occurs when Python cannot connect to the MySQL server because the socket file `/tmp/mysql.sock` is either missing or has incorrect permissions.
 ---
 

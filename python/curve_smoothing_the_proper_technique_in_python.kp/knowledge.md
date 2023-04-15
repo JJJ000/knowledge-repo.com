@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use a curve fitting function such as scipy`s `scipy.optimize.curve\_fit` to find the best-fitting function to approximate the curve and plot the smoothed curve using this function.
 ---
 

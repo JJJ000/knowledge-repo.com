@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To prevent infinite recursion with Jackson JSON and Hibernate JPA, use the @JsonIgnore annotation on the entities` fields that reference each other.
 ---
 

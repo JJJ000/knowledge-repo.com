@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: The number of columns in a Pandas data frame can be retrieved using the `shape` attribute and indexing the second element of the tuple (i.e., `df.shape[1]`).
 ---
 

@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Use the String.prototype.charAt() method with the String.prototype.toUpperCase() method to make the first letter of a string uppercase in JavaScript.
 ---
 

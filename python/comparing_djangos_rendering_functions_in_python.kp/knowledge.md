@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: render() is used to render a template with context data, render\_to\_response() is used to render a template with context data and an HTTP response object, and direct\_to\_template() is used to quickly render a template with no extra data or processing.
 ---
 

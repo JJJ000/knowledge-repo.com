@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: \_\_getattr\_\_ is used in Python for dynamic attribute access, but it cannot be used directly on modules because modules are already imported and their attributes are pre-defined.
 ---
 

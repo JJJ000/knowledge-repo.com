@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: You can use the `git revert` command with the SHA-1 hash of the reverted commit to create a new commit that undoes the changes of the reverted commit.
 ---
 

@@ -7,8 +7,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-22 00:00:00
-updated_at: 2023-01-22 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: json.dumps can be used with the ensure_ascii parameter set to False to save UTF-8 texts as UTF-8, not as a `\u` escape sequence.
 ---
 

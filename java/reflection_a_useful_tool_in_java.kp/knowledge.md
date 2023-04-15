@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-23 00:00:00
-updated_at: 2023-01-23 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Reflection is a feature of Java that allows for the programmatic inspection of classes, interfaces, fields, and methods at runtime, and is useful for dynamic code generation and runtime manipulation of classes.
 ---
 

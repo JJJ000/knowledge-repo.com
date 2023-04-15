@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use a wildcard character (`*`) as the namespace in the element name, for example, element = root.find(`.//{namespaceuri}*/{element\_name}`).
 ---
 

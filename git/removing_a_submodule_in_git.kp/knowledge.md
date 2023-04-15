@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-26 00:00:00
-updated_at: 2023-01-26 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Run `git submodule deinit -f path/to/submodule` followed by `git rm -f path/to/submodule`.
 ---
 

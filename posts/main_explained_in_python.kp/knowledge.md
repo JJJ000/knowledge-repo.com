@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-07 00:00:00
-updated_at: 2023-01-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: It tells the program to execute the code inside the if statement only if the file is being run as the main program, not when it is being imported as a module.
 ---
 

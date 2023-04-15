@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: One can create a Pandas Dataframe by appending a dictionary or a list of values to the Dataframe one row at a time using the Dataframe.append() method.
 ---
 

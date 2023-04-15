@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A .war file is a web application archive that contains JSP, HTML, and servlet files, while a .ear file is an enterprise application archive that contains one or more .war files and EJB components.
 ---
 

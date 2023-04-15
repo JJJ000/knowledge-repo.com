@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: False, it is possible to define multiple constructors using the `\_\_init\_\_` method with default parameter values or using the `@classmethod` decorator.
 ---
 

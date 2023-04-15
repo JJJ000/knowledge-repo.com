@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To remove duplicates by columns A while keeping the row with the highest value in column B, use the pandas library and the drop\_duplicates() function with the keep parameter set to `first` and the inplace parameter set to True, followed by a sort\_values() function with column B as the sorting parameter and ascending set to False.
 ---
 

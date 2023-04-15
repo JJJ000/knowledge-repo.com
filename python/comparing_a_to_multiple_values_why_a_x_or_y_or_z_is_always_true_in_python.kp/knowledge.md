@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: In Python, `a == x or y or z` always evaluates to True because the boolean operation `or` returns the first truthy value it encounters between `x`, `y`, and `z`, and to compare `a` to all of those values separately, you should use `a in [x, y, z]`.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Yes, in JavaScript the closest equivalent of Python`s pass statement that does nothing is an empty block statement, which is denoted by a pair of curly braces with nothing in between them.
 ---
 

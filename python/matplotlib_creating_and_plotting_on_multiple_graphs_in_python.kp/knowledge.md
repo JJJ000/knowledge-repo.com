@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: You can create a second plot by calling the `subplots()` function, and plot on the old one again by using the `plt.plot()` function with the same axes object obtained from the `subplots()` call.
 ---
 

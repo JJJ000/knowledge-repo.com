@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Git reset --mixed resets the index and working directory, --soft resets the index but leaves changes in the working directory, and --hard resets the index, working directory, and all changes made since the last commit.
 ---
 

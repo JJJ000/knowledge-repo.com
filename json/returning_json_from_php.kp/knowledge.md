@@ -7,8 +7,8 @@ tags:
 - php
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-22 00:00:00
-updated_at: 2023-01-22 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A PHP script can return JSON by using the `json_encode()` function.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: All three options (scipy.pi, numpy.pi, and math.pi) are equally valid and will return the same value of pi; it depends on your personal preference and the libraries you are using in your code.
 ---
 

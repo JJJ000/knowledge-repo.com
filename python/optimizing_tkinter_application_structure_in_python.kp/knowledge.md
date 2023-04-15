@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: One possible way to structure a tkinter application in Python is to use the Model-View-Controller (MVC) design pattern, separating the data (Model), user interface (View), and logic (Controller) into different components for better organization and maintainability.
 ---
 

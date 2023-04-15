@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: In Java, `implements` is used to implement an interface, while `extends` is used to extend a class; the difference is that an interface only defines the method signatures while a class provides the implementation for the methods.
 ---
 

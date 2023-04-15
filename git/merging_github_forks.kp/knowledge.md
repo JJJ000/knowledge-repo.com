@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Forking a repository on GitHub allows you to freely experiment with changes without affecting the original project, and merging between forks can be done by creating a pull request from the forked repository to the original repository.
 ---
 

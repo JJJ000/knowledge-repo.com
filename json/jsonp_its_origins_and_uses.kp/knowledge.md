@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-14 00:00:00
-updated_at: 2023-01-14 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: JSONP is a technique used to bypass the same-origin policy by wrapping JSON data in a function call, allowing it to be requested from a different domain.
 ---
 

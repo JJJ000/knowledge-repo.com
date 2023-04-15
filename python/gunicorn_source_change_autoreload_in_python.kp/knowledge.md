@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Gunicorn does not provide built-in autoreload functionality, but it can be achieved through third-party libraries such as watchdog or run\_with\_reloader.
 ---
 

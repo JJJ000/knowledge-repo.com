@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: You can use the double-underscore syntax `\_\_` in your filter argument to reference a field on a related model or to perform lookups, such as `Model.objects.filter(field1\_\_icontains=`search\_term`)`.
 ---
 

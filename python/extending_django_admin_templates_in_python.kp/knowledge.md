@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To override and extend basic Django admin templates in Python, create a new template file in your project`s templates/admin directory with the same name as the template file you want to override, modify it as needed, and load it using the {% extends %} and {% include %} template tags as necessary.
 ---
 

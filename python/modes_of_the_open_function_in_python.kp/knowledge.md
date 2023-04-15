@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-30 00:00:00
-updated_at: 2023-01-30 00:00:00
+created_at: 2023-04-30 00:00:00
+updated_at: 2023-04-30 00:00:00
 tldr: The modes a, a+, w, w+, and r+ indicate whether the file should be opened in read (`r`), write (`w`), append (`a`), or read and write (`+`) mode.
 ---
 

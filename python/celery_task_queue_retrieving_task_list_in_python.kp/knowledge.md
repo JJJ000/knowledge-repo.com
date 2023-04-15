@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: The list of tasks in a queue in Celery can be retrieved using the `celery -A <app\_name> inspect active\_queues` command in the command line.
 ---
 

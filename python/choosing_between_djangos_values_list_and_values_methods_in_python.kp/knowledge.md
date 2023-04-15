@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Django values\_list returns a list of tuples containing requested field values from queryset, whereas values returns a QuerySet that returns dictionaries, where each dictionary represents an object, with keys being the object field names.
 ---
 

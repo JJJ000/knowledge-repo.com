@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the * symbol operator between two matrices or arrays, e.g., C = A * B to perform element-wise matrix multiplication (Hadamard product) in numpy.
 ---
 

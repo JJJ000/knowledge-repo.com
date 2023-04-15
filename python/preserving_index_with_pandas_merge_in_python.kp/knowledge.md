@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: To keep the index when using pandas merge in Python, add the parameter `left\_index=True` or `right\_index=True` depending on which DataFrame`s index you want to keep.
 ---
 

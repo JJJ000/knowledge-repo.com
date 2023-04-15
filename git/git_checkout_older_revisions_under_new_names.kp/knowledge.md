@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: You can use the `git checkout` command with the <revision> and <file> parameters, followed by the `-b <new\_branch\_name>` parameter to create a new branch with the older revision of the file under a new name.
 ---
 

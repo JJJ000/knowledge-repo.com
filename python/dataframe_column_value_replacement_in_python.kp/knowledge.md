@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: To replace column values in a pandas DataFrame in Python, use the `.loc` accessor to select the rows and columns where the replacement is necessary and assign the new values to them.
 ---
 

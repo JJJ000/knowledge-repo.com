@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: To name returned columns in Pandas aggregate function, use dictionary comprehension with column names as keys and aggregation functions as values inside the `agg()` method.
 ---
 

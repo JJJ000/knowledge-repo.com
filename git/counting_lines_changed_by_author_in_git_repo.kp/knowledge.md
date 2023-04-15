@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Run `git log --author <author> --numstat | awk `{ add += $1 ; subs += $2 } END { print `added lines ` add `, removed lines ` subs }`` to count total lines changed by a specific author in a Git repository.
 ---
 

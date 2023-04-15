@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-14 00:00:00
-updated_at: 2023-03-14 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the Python `csv` and `sqlite3` modules to read in the CSV file and insert its data into a table in the SQLite3 database.
 ---
 

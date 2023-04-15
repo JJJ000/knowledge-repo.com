@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-15 00:00:00
-updated_at: 2023-03-15 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Add the root certificate to the cacert.pem file located in the \Lib\site-packages\certifi folder within your Python installation directory.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: A non-fast-forward merge occurs when a commit has been made to the remote branch since the local branch was created, and Git refuses to overwrite the remote changes.
 ---
 

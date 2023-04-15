@@ -6,8 +6,8 @@ tags:
 - algorithm
 - knowledge
 thumbnail: images/algorithm.png
-created_at: 2023-01-23 00:00:00
-updated_at: 2023-01-23 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Processing a sorted array is faster because it allows for the use of binary search algorithms which reduce the time complexity of searching for elements.
 ---
 

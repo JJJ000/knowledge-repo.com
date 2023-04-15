@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Surface plots are 3-dimensional plots that are used to display data in a 3D format using x, y, and z-axis, and they can be created using the mpl\_toolkits.mplot3d library in matplotlib in Python.
 ---
 

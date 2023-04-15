@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Git workflow is a set of processes for managing changes to a project, while rebase is a command to re-apply commits on top of another base tip, while merge is a command to combine multiple sequences of commits into one.
 ---
 

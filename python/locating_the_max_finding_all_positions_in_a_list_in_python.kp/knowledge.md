@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: You can use the built-in function `max()` to find the maximum value and then use a list comprehension to find all positions where the maximum value occurs using the `enumerate()` function.
 ---
 

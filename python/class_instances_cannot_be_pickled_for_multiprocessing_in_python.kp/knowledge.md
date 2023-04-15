@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Python`s pickle library cannot serialize instance methods, leading to the `Can`t pickle <type `instancemethod`> error when attempting to use multiprocessing Pool.map().
 ---
 

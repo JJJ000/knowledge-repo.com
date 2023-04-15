@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Specify the columns to merge on and drop the duplicated columns using the `drop` method or by specifying which columns to keep using the `merge` function with the `suffixes` parameter.
 ---
 

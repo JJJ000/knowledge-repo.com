@@ -8,8 +8,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Downstream in Git refers to the direction of transferring commits from a remote repository to a local one, while upstream refers to the opposite direction of transferring commits from a local repository to a remote one.
 ---
 

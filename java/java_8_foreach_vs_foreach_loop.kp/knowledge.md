@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Iterable.forEach() is a built-in Java 8 method that allows for a more concise and functional approach to looping through a collection, while a traditional foreach loop is a more verbose approach.
 ---
 

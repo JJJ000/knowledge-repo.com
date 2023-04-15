@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: The pip cache folder in Python is located at `~/.cache/pip` on Unix-based systems or `%HOME%\AppData\Local\pip\Cache` on Windows.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: For fast-forward merges, use when the branch being merged in is ahead of the current branch; for recursive merges, use when the two branches have diverged; for squash merges, use when combining multiple commits into one; and for rebase merges, use when wanting to keep a linear history.
 ---
 

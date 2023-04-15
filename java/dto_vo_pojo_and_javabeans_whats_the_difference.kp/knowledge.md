@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: DTO (Data Transfer Object) is used to transfer data between processes, VO (Value Object) is a simple Java object containing getter/setter methods for each field, POJO (Plain Old Java Object) is a Java object without any special methods or fields, and JavaBeans are Java objects that adhere to certain conventions.
 ---
 

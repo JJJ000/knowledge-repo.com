@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To remove or adapt the border of the frame of legend using matplotlib in Python, use the `frameon` parameter and set it to `False` to remove the border or `True` to show the border.
 ---
 

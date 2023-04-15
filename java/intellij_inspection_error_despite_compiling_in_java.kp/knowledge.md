@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: IntelliJ inspection is a static analysis tool and will not detect any errors that only occur at runtime, so it is possible for code to compile despite IntelliJ giving a `Cannot resolve symbol` error.
 ---
 

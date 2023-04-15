@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Git stash pop removes the most recently stashed changes from the stash and applies them, while git stash apply applies the most recently stashed changes without removing them from the stash.
 ---
 

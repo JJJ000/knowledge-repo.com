@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Both conditions check whether variable A has a value assigned to it, but `if A is not None` is more explicit and considered to be a more Pythonic way of checking for a None value.
 ---
 

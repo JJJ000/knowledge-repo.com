@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To create a new column based on if-elif-else condition in Python, use the .apply() method along with a lambda function that specifies the conditions and outputs the desired results.
 ---
 

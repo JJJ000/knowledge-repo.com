@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A colorbar in matplotlib is a visualization tool that provides a map of colors to values and its text labels can be added using the `set\_ticklabels()` function.
 ---
 

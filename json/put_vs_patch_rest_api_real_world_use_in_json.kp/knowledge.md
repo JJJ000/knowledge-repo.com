@@ -8,8 +8,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-21 00:00:00
-updated_at: 2023-01-21 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: PUT is used to update an entire resource, while PATCH is used to update only certain parts of a resource.
 ---
 

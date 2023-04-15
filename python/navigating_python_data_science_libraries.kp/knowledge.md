@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: Numpy provides support for arrays and matrices, Scipy provides numerical routines, Matplotlib provides visualizations, and Pylab is a module that combines the functionality of these libraries for interactive plotting.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: `wait()` is used to pause the execution of a thread until another thread notifies it, while `sleep()` is used to pause the execution of a thread for a specified amount of time.
 ---
 

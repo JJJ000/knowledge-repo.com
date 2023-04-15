@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-15 00:00:00
-updated_at: 2023-03-15 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To filter a date field in SQLAlchemy using Python, you can use the `filter()` method with the `datetime` class to specify a range of dates to filter by.
 ---
 

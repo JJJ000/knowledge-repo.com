@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can create a new column in a DataFrame pandas in Python by subtracting two columns of dates and converting the resulting Timedelta objects to integers using the dt.days attribute.
 ---
 

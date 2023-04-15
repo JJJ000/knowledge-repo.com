@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: *args and **kwargs in Python are used to pass a variable number of arguments to a function, where *args represents a tuple of positional arguments and **kwargs represents a dictionary of keyword arguments.
 ---
 

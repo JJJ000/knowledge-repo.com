@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Because the `in` operator tests for membership in a sequence and 1 is a member of the list [1, 0], so the expression evaluates to True, but it is then compared to the integer value True, which is not equal to 1, resulting in False.
 ---
 

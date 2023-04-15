@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: 1. Building custom frameworks with customized class behavior.
 2. Implementing automatic registration of classes or other objects in a larger system.
 3. Creating static type checking and object validation at the class level.

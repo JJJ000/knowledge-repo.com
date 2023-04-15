@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: `git remote add ...` is used to add a remote repository to the local repository, and `git push origin master` is used to push the local repository`s master branch to the remote repository.
 ---
 

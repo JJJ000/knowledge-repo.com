@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: In JavaScript, `use strict` is a directive that enables strict mode, which helps to prevent errors and insecure coding practices by enforcing stricter syntax rules.
 ---
 

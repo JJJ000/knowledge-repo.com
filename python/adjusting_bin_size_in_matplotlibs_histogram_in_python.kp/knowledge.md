@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: The bin size in Matplotlib (Histogram) in Python refers to the width of each bin of the histogram, which can be adjusted using the `bins` parameter.
 ---
 

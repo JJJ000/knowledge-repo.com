@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To delete files from Amazon S3 bucket in Python, you can use the `boto3` library and call the `delete\_object()` method on your S3 bucket object.
 ---
 

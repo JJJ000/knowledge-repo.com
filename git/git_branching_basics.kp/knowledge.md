@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Git branch creates a new branch from the current branch, fork creates a new repository from an existing repository, fetch retrieves new commits from a remote repository, merge combines two branches, rebase replays the commits of one branch onto another, and clone creates a local copy of a remote repository.
 ---
 

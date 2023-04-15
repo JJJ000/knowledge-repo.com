@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-26 00:00:00
-updated_at: 2023-01-26 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To update or sync a forked repository on GitHub, you can pull in upstream changes from the original repository using git pull.
 ---
 

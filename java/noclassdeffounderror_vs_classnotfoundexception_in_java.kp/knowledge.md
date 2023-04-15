@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: NoClassDefFoundError occurs when a class is present at compile time but is missing at runtime, while ClassNotFoundException occurs when a class is not found during the execution of a program.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the command `pip install PACKAGE\_NAME --user` to install a package locally or `sudo pip install PACKAGE\_NAME` to install it globally.
 ---
 

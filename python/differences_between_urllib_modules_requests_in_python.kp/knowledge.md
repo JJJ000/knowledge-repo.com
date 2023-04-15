@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-30 00:00:00
-updated_at: 2023-01-30 00:00:00
+created_at: 2023-04-30 00:00:00
+updated_at: 2023-04-30 00:00:00
 tldr: The urllib, urllib2, and urllib3 modules are built-in Python modules for handling HTTP requests, while the requests module is an external library for making HTTP requests easier to handle.
 ---
 

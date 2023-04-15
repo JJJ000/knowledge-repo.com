@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Use the `plt.subplots\_adjust()` function and adjust the `hspace` and `wspace` parameters to reduce the gaps between subplots in Matplotlib.
 ---
 

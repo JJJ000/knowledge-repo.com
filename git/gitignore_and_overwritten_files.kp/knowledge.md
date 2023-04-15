@@ -8,8 +8,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: The .gitignore file specifies which files and directories should be ignored by Git, while the `The following untracked working tree files would be overwritten by checkout` message warns that existing files in the working tree will be overwritten by the files in the branch being checked out.
 ---
 

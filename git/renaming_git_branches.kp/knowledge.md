@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: To rename a local and remote branch name, use the git branch -m command to rename the local branch, then use the git push origin old\_branch new\_branch command to update the remote branch.
 ---
 

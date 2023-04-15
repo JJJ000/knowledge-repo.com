@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Multiprocessing allows parallel processing of different processes, Multithreading allows multiple threads to run at the same time within a single process, and asyncio allows single-threaded concurrent I/O operations within a single event loop.
 ---
 

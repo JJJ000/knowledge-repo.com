@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-26 00:00:00
-updated_at: 2023-01-26 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: You can undo a Git merge that hasn`t been pushed yet by using the command `git merge --abort`.
 ---
 

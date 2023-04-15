@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The `--no-site-packages` flag prevents the system site-packages from being used, but it does not prevent globally installed packages from being found by pip in the user`s home directory.
 ---
 

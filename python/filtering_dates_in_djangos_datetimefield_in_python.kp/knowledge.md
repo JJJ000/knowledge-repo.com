@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: To filter by a specific date, use the `.filter()` method with the date object as the argument, like this `ExampleModel.objects.filter(datetime\_field\_\_date=date\_object)`.
 ---
 

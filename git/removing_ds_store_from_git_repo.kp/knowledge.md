@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Run the command `git rm --cached $(git ls-files -i -X .gitignore -o --exclude-standard)` to remove all .DS\_Store files from a Git repository.
 ---
 

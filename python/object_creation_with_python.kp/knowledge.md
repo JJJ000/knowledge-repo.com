@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To create an object in Python, first define a class (which serves as a blueprint for the object) and then use the class to create an instance of the object using the syntax name\_of\_object = ClassName().
 ---
 

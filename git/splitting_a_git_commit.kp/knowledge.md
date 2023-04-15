@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-28 00:00:00
-updated_at: 2023-01-28 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Run `git reset --soft HEAD~1` followed by `git commit -m <commit message>` and `git add <changed files>` for the first commit, then `git commit -m <commit message>` for the second commit.
 ---
 

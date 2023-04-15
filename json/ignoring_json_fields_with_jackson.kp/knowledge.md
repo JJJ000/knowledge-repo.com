@@ -7,8 +7,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-22 00:00:00
-updated_at: 2023-01-22 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Jackson can be configured to ignore unknown fields by setting the `FAIL_ON_UNKNOWN_PROPERTIES` flag to false.
 ---
 

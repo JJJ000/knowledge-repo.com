@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: To get the unique combinations of values in selected columns in a Pandas data frame and count them in Python, use the following syntax df.groupby([`col1`, `col2`]).size().reset\_index(name=`count`).
 ---
 

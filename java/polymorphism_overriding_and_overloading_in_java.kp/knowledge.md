@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Polymorphism is the ability for objects of different types to respond to the same method call, Overriding is the ability for a subclass to redefine the implementation of a method of its superclass, and Overloading is the ability to define multiple methods with the same name but different parameters.
 ---
 

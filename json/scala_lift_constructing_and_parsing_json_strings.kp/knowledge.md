@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To construct and parse a JSON string in Scala/Lift, use Lift-JSON library which provides case class serialization/deserialization and implicit JSON formats.
 ---
 

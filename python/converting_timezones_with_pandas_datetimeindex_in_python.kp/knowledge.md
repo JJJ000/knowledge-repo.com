@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the `tz\_localize()` method to add the desired timezone to the DateTimeIndex and then use the `tz\_convert()` method to convert it to the desired timezone before calling the `to\_pydatetime()` method to obtain a naive timestamp.
 ---
 

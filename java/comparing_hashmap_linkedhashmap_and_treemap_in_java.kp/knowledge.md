@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: HashMap stores key-value pairs in no particular order, LinkedHashMap stores key-value pairs in the order they were inserted, and TreeMap stores key-value pairs in natural order of the keys.
 ---
 

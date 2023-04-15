@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-16 00:00:00
-updated_at: 2023-03-16 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To convert a bytes array into JSON format in Python, we can use the decode method with UTF-8 encoding on the bytes object and then pass it to the loads method of the JSON module.
 ---
 

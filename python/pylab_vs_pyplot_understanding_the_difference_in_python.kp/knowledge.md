@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: Pyplot is a module from the matplotlib library that provides a high-level interface for creating visualizations, while pylab is a module that combines pyplot with NumPy into a single namespace for ease of use.
 ---
 

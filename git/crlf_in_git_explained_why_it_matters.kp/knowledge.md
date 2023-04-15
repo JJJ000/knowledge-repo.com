@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-01-27 00:00:00
-updated_at: 2023-01-27 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: CRLF is a line ending format used in Windows, and it is important in git because it ensures that files are correctly formatted when they are transferred between different operating systems.
 ---
 

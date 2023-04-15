@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: This error occurs when there is a conflict between pip and setuptools, which can be resolved by upgrading pip using the command `python -m pip install --upgrade pip`.
 ---
 

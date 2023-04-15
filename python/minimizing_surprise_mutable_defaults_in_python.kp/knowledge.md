@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-01-11 00:00:00
-updated_at: 2023-01-11 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Least Astonishment is a concept in Python programming that suggests that the default value of a mutable argument should not be changed unexpectedly.
 ---
 

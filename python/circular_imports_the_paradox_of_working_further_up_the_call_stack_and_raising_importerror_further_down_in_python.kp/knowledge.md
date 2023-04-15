@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Circular imports can seemingly work further up in the call stack because the modules being imported may have already been initialized, but an ImportError is raised further down because the circular import prevents the second module from being fully initialized.
 ---
 

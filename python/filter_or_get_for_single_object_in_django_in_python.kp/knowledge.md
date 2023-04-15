@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-12 00:00:00
-updated_at: 2023-03-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: .get() is used for retrieving a single object and raises an error if multiple objects are found, while .filter() returns a QuerySet, which can contain multiple objects.
 ---
 

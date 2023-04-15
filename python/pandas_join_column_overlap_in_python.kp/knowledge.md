@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: When joining two dataframes, if there are overlapping columns but no suffix is specified, a `ValueError columns overlap but no suffix specified` error is raised.
 ---
 

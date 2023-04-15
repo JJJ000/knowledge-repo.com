@@ -6,8 +6,8 @@ tags:
 - json
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: It is not possible to add a JSON serializer to every model class in JSON as JSON is a data format, and not a programming language that allows you to add functionality to classes.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-13 00:00:00
-updated_at: 2023-03-13 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: MySQLdb and mysqlclient are both Python libraries that allow Python programs to communicate with a MySQL database, while MySQL Connector/Python is an official MySQL driver for Python that supports standard Python Database API.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-01-29 00:00:00
-updated_at: 2023-01-29 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: OpenJDK is the open-source implementation of the Java Platform, while Adoptium/AdoptOpenJDK is a vendor-supported distribution of OpenJDK that is certified and compliant with Java standards.
 ---
 

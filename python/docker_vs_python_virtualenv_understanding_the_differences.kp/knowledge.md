@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-08 00:00:00
-updated_at: 2023-03-08 00:00:00
+created_at: 2023-04-18 00:00:00
+updated_at: 2023-04-18 00:00:00
 tldr: Docker is a containerization platform that encapsulates entire environments, while Python virtualenv is a tool that creates isolated Python environments with only the necessary dependencies.
 ---
 

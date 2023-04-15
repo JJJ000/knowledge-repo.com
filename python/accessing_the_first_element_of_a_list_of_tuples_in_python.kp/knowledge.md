@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-06 00:00:00
-updated_at: 2023-03-06 00:00:00
+created_at: 2023-04-16 00:00:00
+updated_at: 2023-04-16 00:00:00
 tldr: To get the first element in a list of tuples in Python, you can use a list comprehension or a for loop with unpacking syntax, such as [x[0] for x in list\_of\_tuples] or for t in list\_of\_tuples first = t[0].
 ---
 

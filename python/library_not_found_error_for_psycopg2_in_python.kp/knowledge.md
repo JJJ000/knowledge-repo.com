@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-07 00:00:00
-updated_at: 2023-03-07 00:00:00
+created_at: 2023-04-17 00:00:00
+updated_at: 2023-04-17 00:00:00
 tldr: You need to install OpenSSL and its development packages before installing psycopg2 using the command `sudo apt-get install libssl-dev` on Ubuntu or `brew install openssl` on macOS.
 ---
 

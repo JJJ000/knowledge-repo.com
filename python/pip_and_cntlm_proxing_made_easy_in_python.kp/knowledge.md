@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-03-05 00:00:00
-updated_at: 2023-03-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To use pip behind a proxy with CNTLM in Python, configure the proxy settings in the pip configuration file (pip.ini or pip.conf) to use the CNTLM server as the proxy.
 ---
 

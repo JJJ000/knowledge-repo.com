@@ -7,8 +7,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/json.png
-created_at: 2023-01-12 00:00:00
-updated_at: 2023-01-12 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: JSON content type most commonly used is `application/json`.
 ---
 
