@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The most efficient way to count the number of keys/properties of an object in JavaScript is to use the Object.keys() method.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-04-30 00:00:00
-updated_at: 2023-04-30 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Pandas GroupBy can be used to calculate various statistics such as count, mean, sum, min, max, etc. for each group.
 ---
 

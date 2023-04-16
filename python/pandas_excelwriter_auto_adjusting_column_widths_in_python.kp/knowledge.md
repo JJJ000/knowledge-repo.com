@@ -37,7 +37,7 @@ import xlsxwriter
 df = pd.DataFrame({
     'column1': ['This is a very long string', 'Short', 'Medium'],
     'column2': [123456789, 12, 123456],
-    'column3': ['2022-01-01', '2022-02-01', '2022-03-01']
+    'column3': ['2022-01-01', '2023-04-15', '2022-03-01']
 })
 
 # Create a Pandas Excel writer using XlsxWriter as the engine.

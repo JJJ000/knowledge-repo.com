@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: React Router allows for optional path parameters to be specified in a route`s path by wrapping the parameter in parentheses.
 ---
 

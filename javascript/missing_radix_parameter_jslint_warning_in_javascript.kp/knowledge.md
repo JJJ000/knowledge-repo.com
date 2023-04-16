@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: JSLint is pointing out that a function call is missing a parameter that specifies the base of a number being parsed.
 ---
 

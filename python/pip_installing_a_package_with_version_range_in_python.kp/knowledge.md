@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can specify a version range when installing a package using pip by using the `==` operator followed by the min and max versions separated by a comma, e.g. `pip install <package>==<min\_version>,<max\_version>`.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The following elegant Python function can be used to convert CamelCase to snake\_case ``.join(word.lower() if word.isupper() else `\_` + word.lower() for word in re.findall(`[A-Z][^A-Z]*`, string)).
 ---
 

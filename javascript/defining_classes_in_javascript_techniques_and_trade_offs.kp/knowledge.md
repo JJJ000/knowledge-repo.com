@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Classes in JavaScript can be defined using either the class syntax or the prototype syntax; the trade-off is that the class syntax is easier to read and use, but the prototype syntax is more powerful.
 ---
 

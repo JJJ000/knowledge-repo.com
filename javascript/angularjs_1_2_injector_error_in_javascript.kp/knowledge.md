@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: AngularJS 1.2 $injectormodulerr is an error that occurs when a module fails to load due to a dependency not being loaded or not being registered correctly.
 ---
 

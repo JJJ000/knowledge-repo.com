@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the `fillna()` method to fill the NaNs with a suitable integer, then use the `astype()` method to convert the column to `int` type.
 ---
 

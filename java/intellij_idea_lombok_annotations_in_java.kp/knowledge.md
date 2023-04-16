@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Intellij IDEA requires the annotation processor to be enabled in order for Lombok annotations to compile.
 ---
 

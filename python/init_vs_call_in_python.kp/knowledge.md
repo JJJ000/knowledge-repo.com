@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-04-30 00:00:00
-updated_at: 2023-04-30 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: \_\_init\_\_ is used to define and initialize a class, while \_\_call\_\_ is used to call an instance of a class as if it were a function.
 ---
 

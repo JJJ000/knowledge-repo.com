@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Class.isInstance checks if an object is an instance of a particular class, while Class.isAssignableFrom checks if a class is a subclass of another class.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To debug a Java application remotely, you can use a remote debugging tool such as jdb or a remote debugger like Eclipse`s Remote Debugging feature.
 ---
 

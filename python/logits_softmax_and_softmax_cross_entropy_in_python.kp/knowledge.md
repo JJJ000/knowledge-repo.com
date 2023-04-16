@@ -8,8 +8,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Logits are raw, unnormalized values that represent the output of a neural network before being passed through the softmax activation function. Softmax is an activation function which outputs the probability of each class, while softmax\_cross\_entropy\_with\_logits is a loss function which combines the softmax activation function with the cross-entropy loss for multi-class classification.
 ---
 

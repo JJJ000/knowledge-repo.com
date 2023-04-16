@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The Object.entries() method can be used to iterate over an object and apply a map function to each key/value pair.
 ---
 

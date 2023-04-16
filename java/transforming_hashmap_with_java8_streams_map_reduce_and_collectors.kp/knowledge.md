@@ -10,8 +10,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Using Stream and Map-Reduce or Collector, one can transform a HashMap<X, Y> to a HashMap<X, Z> by mapping each entry to a new value Z.
 ---
 

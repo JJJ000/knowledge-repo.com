@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: An expression is a combination of values, variables, and operators that evaluates to a single value, while a statement is a command that tells the computer to do something.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Run `pip3 install <package\_name>` to install the python3 version of a package via pip on Ubuntu.
 ---
 

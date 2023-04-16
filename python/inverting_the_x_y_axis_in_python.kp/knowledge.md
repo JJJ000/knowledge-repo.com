@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To invert the x or y axis in Python, use the pyplot.gca().invert\_xaxis() or pyplot.gca().invert\_yaxis() functions.
 ---
 

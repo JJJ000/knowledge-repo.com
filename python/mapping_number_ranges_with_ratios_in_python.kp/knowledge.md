@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the formula `new\_value = ( (old\_value - old\_min) / (old\_max - old\_min) ) * (new\_max - new\_min) + new\_min` to convert a number from one range to another, while maintaining its ratio.
 ---
 

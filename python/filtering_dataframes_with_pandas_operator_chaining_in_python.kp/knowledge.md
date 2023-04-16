@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Using operator chaining, rows of a DataFrame can be filtered by passing multiple conditions in the form of boolean expressions to the DataFrame`s `.loc` accessor.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Ng-if should be used when an element needs to be completely removed from the DOM, while ng-show/ng-hide should be used when an element needs to be hidden but remain in the DOM.
 ---
 

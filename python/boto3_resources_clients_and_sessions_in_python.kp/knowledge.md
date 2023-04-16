@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A boto3 resource represents an object-oriented interface to an AWS service, a boto3 client provides low-level direct access to AWS APIs, and a boto3 session stores configuration state and parameters to be used in the other two components.
 ---
 

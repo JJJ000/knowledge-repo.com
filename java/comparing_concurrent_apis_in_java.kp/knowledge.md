@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: CompletableFuture is a Java 8 feature which provides a Future with additional methods for composition and chaining, while RxJava`s Observable provides a reactive stream of data or events.
 ---
 

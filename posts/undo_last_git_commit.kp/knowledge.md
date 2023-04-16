@@ -6,8 +6,8 @@ tags:
 - git
 - knowledge
 thumbnail: images/git.png
-created_at: 2023-04-30 00:00:00
-updated_at: 2023-04-30 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use `git reset --soft HEAD~1` to undo the last commit and keep all the changes,
   or `git reset --hard HEAD~1` to clean up all the changes in the last commit.
 ---

@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Using jQuery, the escape key press can be detected with the $(document).on(`keyup`, function(e) { if (e.keyCode == 27) { /* Escape key pressed */ } }); syntax.
 ---
 

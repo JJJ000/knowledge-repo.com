@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: jQuery.click() is a jQuery method that is used to attach an event handler to an element, while onClick is an HTML attribute that calls a JavaScript function when an element is clicked.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-04-30 00:00:00
-updated_at: 2023-04-30 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the list comprehension syntax [int(x) for x in list] to convert all strings in a list to int in Python.
 ---
 

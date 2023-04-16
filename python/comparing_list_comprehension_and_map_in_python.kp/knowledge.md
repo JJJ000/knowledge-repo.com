@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-04-30 00:00:00
-updated_at: 2023-04-30 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: List comprehensions are more concise and faster than map, but map allows for more flexibility in applying functions.
 ---
 

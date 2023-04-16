@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A two-dimensional array can be initialized in Python by using the nested list syntax, i.e. arr = [[0 for x in range(cols)] for y in range(rows)].
 ---
 

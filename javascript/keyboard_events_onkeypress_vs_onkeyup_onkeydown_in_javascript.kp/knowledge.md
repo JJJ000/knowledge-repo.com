@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: onKeyPress is triggered when a key is pressed, onKeyUp is triggered when a key is released, and onKeyDown is triggered when a key is first pressed.
 ---
 

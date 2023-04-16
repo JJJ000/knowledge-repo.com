@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Pandas provides the to\_datetime, to\_timestamp, and to\_datetime64 methods to convert between datetime, Timestamp, and datetime64 objects.
 ---
 

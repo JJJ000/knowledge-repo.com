@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Java handles integer underflows and overflows by wrapping the value around to the opposite end of the range of values, and you can check for it by comparing the result to the expected value.
 ---
 

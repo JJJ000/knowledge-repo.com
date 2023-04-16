@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can convert a timedelta to days, hours and minutes by using the total\_seconds() method to convert the timedelta to seconds and then dividing the result by the number of seconds in a day, hour and minute, respectively.
 ---
 

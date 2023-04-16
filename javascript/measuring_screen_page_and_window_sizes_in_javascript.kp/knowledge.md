@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The size of the screen, current web page, and browser window can be retrieved in JavaScript using the window.innerWidth, window.innerHeight, document.documentElement.clientWidth, and document.documentElement.clientHeight properties.
 ---
 

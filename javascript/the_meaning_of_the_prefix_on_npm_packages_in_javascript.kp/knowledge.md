@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The `@` prefix on npm packages in Javascript indicates that the package is a scoped package, meaning it is published on the npm registry under an organization or user namespace.
 ---
 

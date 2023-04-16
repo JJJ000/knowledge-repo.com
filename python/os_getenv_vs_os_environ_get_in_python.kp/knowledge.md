@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: os.getenv() gets the value of the environment variable with the specified name, while os.environ.get() gets the value of the environment variable, or a default value if the variable is not set.
 ---
 

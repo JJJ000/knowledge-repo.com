@@ -36,7 +36,7 @@ print("New Date:", new_date)
 
 Output:
 ```
-Original Date: 2022-02-01 00:00:00
+Original Date: 2023-04-15 00:00:00
 New Date: 2022-02-02 00:00:00
 ```
 
@@ -58,7 +58,7 @@ print("New Date:", new_date)
 
 Output:
 ```
-Original Date: 2022-02-01 00:00:00
+Original Date: 2023-04-15 00:00:00
 New Date: 2022-02-02
 ```
 

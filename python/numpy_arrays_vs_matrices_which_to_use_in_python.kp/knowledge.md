@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Numpy arrays are multi-dimensional arrays that can store elements of any data type, while matrices are two-dimensional arrays that can only store elements of the same data type. For most applications, it is recommended to use numpy arrays in Python.
 ---
 

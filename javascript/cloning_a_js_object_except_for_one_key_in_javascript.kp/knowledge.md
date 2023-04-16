@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use Object.assign() to create a new object and pass the original object as the first argument, then pass an object containing the key to exclude as the second argument, with its value set to undefined.
 ---
 

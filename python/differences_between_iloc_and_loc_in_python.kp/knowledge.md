@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-04-30 00:00:00
-updated_at: 2023-04-30 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: loc is used to access a group of rows and columns by label(s) or a boolean array, while iloc is used to access a group of rows and columns by integer position(s).
 ---
 

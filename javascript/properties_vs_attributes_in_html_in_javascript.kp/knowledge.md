@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Attributes are the settings of an HTML element that can be used to provide additional information, while properties are the values of those attributes that can be accessed and manipulated through JavaScript.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The filter() method applies a given filter criterion to the query, whereas the filter\_by() method applies a given filter criterion to the query based on keyword arguments.
 ---
 

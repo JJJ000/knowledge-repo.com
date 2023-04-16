@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Pandas can read multiple worksheets from the same workbook using the pd.read\_excel() function by specifying the sheet\_name parameter as a list of strings.
 ---
 

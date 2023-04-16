@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: HTML5 Canvas is best for creating dynamic, interactive graphics in Javascript, SVG is best for creating static vector graphics, and div is best for creating simple, static HTML elements.
 ---
 

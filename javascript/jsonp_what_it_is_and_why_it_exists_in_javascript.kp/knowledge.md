@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: JSONP is a technique used to circumvent the same-origin policy in web browsers by allowing data to be requested from a server residing in a different domain, and was created in Javascript to facilitate cross-domain communication.
 ---
 

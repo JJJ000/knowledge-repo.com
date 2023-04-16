@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Npm install is a command to install packages from the npm registry, and the message that `x packages are looking for funding` means that those packages are not available for free and require financial support to be installed.
 ---
 

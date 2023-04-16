@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Field Injection is the process of injecting data into a class field without using the class constructor, and it can be avoided in Java by making all fields private and using getter/setter methods to access them.
 ---
 

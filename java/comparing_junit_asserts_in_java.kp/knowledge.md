@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The two JUnit Assert classes are Assert and AssertJ, which differ in that Assert is a legacy class with basic assertion methods, while AssertJ provides a more modern, fluent API with additional assertion methods.
 ---
 

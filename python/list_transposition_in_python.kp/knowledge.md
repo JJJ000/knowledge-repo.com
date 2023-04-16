@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To transpose a list of lists in Python, use the zip() function to unpack the list of lists, followed by the star operator (*) to unpack the zip object into individual arguments for the list() constructor.
 ---
 

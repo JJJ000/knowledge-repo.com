@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A parent pom is a pom.xml file that is used to manage the versions and dependencies of a group of related Maven modules, while a module pom is a pom.xml file that defines the configuration for a single Maven module.
 ---
 

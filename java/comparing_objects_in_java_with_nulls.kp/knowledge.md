@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Two objects in Java can be compared using the `equals()` method, which returns a boolean value depending on whether or not the two objects are equal, accounting for possible null values.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: To decode and encode a string in Base64 using Base64 in Java, use the getDecoder() and getEncoder() methods of the java.util.Base64 class.
 ---
 

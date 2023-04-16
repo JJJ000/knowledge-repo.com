@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Python datetime objects can be serialized to JSON strings using the isoformat() method and JavaScript datetime strings can be parsed into Python datetime objects using the fromisoformat() method.
 ---
 

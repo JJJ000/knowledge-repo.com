@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Object spread allows for a more concise and intuitive syntax for copying enumerable properties from one object to another, while Object.assign() copies the values of all enumerable own properties from one or more source objects to a target object.
 ---
 

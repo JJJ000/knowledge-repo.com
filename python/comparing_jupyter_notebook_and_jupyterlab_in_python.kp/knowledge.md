@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Jupyter Notebook is a web-based interactive computing environment, while JupyterLab is an integrated development environment that provides a more comprehensive user experience.
 ---
 

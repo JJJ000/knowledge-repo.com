@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: The map() function calls a provided callback function once for each element in an array, in order, and returns an array containing the results. The callback is passed three arguments the current element being processed, the index of the current element, and the array over which it is iterating.
 ---
 

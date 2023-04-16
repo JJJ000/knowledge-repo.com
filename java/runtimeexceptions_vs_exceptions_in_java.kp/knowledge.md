@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: RuntimeException is an unchecked exception, meaning it does not need to be caught, whereas Exception is a checked exception, meaning it must be caught.
 ---
 

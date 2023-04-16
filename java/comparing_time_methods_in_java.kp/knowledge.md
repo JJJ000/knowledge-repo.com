@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: System.currentTimeMillis() returns the number of milliseconds since January 1, 1970, while new Date() and Calendar.getInstance().getTime() return a Date object representing the current date and time.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: JSX.Element should be used when writing JSX elements, ReactNode should be used when dealing with any type of React node (elements, components, strings, numbers, etc.), and ReactElement should be used when dealing with a specific React element.
 ---
 

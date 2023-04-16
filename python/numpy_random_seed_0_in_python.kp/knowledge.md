@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-02 00:00:00
-updated_at: 2023-02-02 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Numpy.random.seed(0) sets the seed for the pseudo-random number generator, allowing for the generation of the same sequence of random numbers each time the code is run.
 ---
 

@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Use the str.find() or str.index() method to find the index of the first occurrence of the first substring, then use the str.rfind() or str.rindex() method to find the index of the last occurrence of the second substring, and finally use the str.slice() method to extract the string between the two substrings.
 ---
 

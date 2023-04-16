@@ -6,8 +6,8 @@ tags:
 - python
 - knowledge
 thumbnail: images/python.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: You can use the built-in functions `type`, `\_\_file\_\_`, and `\_\_line\_\_` to get the type, file, and line number of an exception in Python.
 ---
 

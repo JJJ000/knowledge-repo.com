@@ -6,8 +6,8 @@ tags:
 - java
 - knowledge
 thumbnail: images/java.png
-created_at: 2023-02-05 00:00:00
-updated_at: 2023-02-05 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Generics type erasure occurs at compile time and replaces all generic type parameters and type arguments with their bounds or Object if the type parameter is unbounded.
 ---
 

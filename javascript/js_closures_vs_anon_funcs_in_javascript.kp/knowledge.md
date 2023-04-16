@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: A closure is a function that remembers and accesses its lexical scope even when that function is executing outside its lexical scope, whereas an anonymous function is a function that does not have a name.
 ---
 

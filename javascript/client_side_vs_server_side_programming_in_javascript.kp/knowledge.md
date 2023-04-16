@@ -6,8 +6,8 @@ tags:
 - javascript
 - knowledge
 thumbnail: images/javascript.png
-created_at: 2023-02-04 00:00:00
-updated_at: 2023-02-04 00:00:00
+created_at: 2023-04-15 00:00:00
+updated_at: 2023-04-15 00:00:00
 tldr: Client-side programming is code that runs in the browser and is responsible for the user interface, while server-side programming is code that runs on the server and is responsible for back-end tasks.
 ---
 
